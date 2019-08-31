@@ -1,0 +1,1066 @@
+
+.v5-L h1, .v5-L h2, .v5-L h3, .v5-L p {
+	margin: 0;
+	padding: 0;
+}
+label {
+    font-weight: normal;
+}
+
+.row_header5 {
+	background-image: url('../img/site/page_5/v5_back.png'); 
+	background-color: #06232A;
+}
+.v5_main1 {
+
+}
+.v5_main1 img {
+	transform: scale(1.2);
+    margin-top: 167px;
+    width: 91%;
+}
+
+.v5_main1 .term1 {
+	margin-top: 140px;
+	font-size: 38px;
+	font-family: Ubuntu-M;
+	color:#fff;
+}
+.v5_main1 .term2 {
+	margin-top: 50px;
+	font-size: 22.9px;
+	font-family: Ubuntu-L;
+	color:#fff;
+}
+.v5_main1 .term3 {
+	margin-bottom: 10px;
+	margin-top: 50px;
+	font-size: 16.2px;
+	font-family: Ubuntu-M;
+	color:#ffa054;
+}
+.v5_main2 {
+	background-color: #fff;
+}
+
+.v5_main2 .term4 {
+	font-size: 31px;
+	margin-top: 165px; 
+	color: #00363e;
+	font-family: Ubuntu-M;
+	text-align: right;
+}
+.v5_main2 .block {
+	text-align: center;
+	margin-top: 50px;
+}
+.v5_main2 .term5 {
+	font-size: 13px;
+	margin-top: 15px;
+	margin-bottom:133px;
+	color: #4b4b4b;
+	font-family: Ubuntu-MI;
+	text-align: right;	
+}
+.v5_main2 .btn1 {
+	width: 100%;
+	font-size: 23.05px; 
+	height: 55px;
+	border: 1px solid silver;
+	background-color: #fff;
+	font-family: Ubuntu-R;
+	color: #c1c1c1;
+}
+.v5_main2 .btn2 {
+	width: 100%;
+	font-size: 18px; 
+	height: 55px;
+	border:none;
+	background-color: #36C6A4;
+	font-family: Ubuntu-M;
+	color: #fff;
+}
+.v5_main2 img {
+	margin-top: 70px;
+	width: 100%;
+}
+.v5_main3::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    position: absolute;
+    border-style: solid;
+    border-width: 80px 0 0 80px;
+    border-color: #fff transparent transparent transparent;
+    left: calc(50% - 53px);
+    margin-top: -50px;
+}
+.v5_main3  {
+	background-color: #E8E8E8;
+}
+.v5_main3  .term6 {
+	font-size: 33.57px;
+	margin-top: 65px;
+	margin-bottom:55px;
+	color: #d8004c;
+	font-family: Ubuntu-R;
+	text-align: center;
+}
+.v5_main3  .term7 {
+	font-size: 19.45px;
+	margin-top: 30px;
+	margin-bottom:55px;
+	color: #36c6a4;
+	font-family: Ubuntu-B;
+	text-align: right;
+	margin-right: 124px;
+	text-decoration: underline;
+}
+.v5_main3  img {
+	width: 90%;
+}
+.v5_main4::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 37px 35px 0 35px;
+    border-color: #E8E8E8 transparent transparent transparent;
+    left: calc(50% - 18.5px);
+}
+
+.v5_main4  {
+	background-image: url('../img/site/page_5/v5_back1.png'); 
+	background-color: #C8DBDB;
+}
+
+.v5_main4 .term8 {
+	font-size: 48px;
+	margin-top: 80px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+	text-align: center;
+}
+.v5_main4 .term9 {
+	font-size: 33.57px;
+	margin-top: 66px;
+	color: #6a6a6a;
+	font-family: Ubuntu-L;
+	text-align: center;
+}
+.v5_main4 .term10 {
+	font-size: 24px;
+	margin-top: 72px;
+	color: #434343;
+	font-family: Ubuntu-R;
+	text-align: center;
+}
+.v5_main4 .term11 {
+	font-size: 29px;
+	margin-top: 55px;
+	color: #0d4eb0;
+	font-family: Ubuntu-R;
+	text-align: center;
+}
+.v5_main4 .term12 {
+	font-size: 24px;
+	margin-top: 47px;
+	margin-bottom: 75px;
+	color: #434343;
+	font-family: Ubuntu-R;
+	text-align: center;
+}
+.v5_main6 {
+	padding-bottom: 50px;
+}
+.v5_main6 .rain {
+	width: 100%;
+	margin-top: 40px;
+}
+.v5_main6 .term13 {
+	font-size: 48px;
+	margin-top: 70px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+	text-align: center;
+}
+.v5_main6 .term14 {
+	font-size: 33.57px;
+	margin-top: 48px;
+	margin-bottom: 46px;
+	color: #434343;
+	font-family: Ubuntu-R;
+	text-align: center;
+}
+
+.v5_main6 input[type=checkbox].css-checkbox + label.css-label {
+	font-size: 28px;
+	color: #ffa054;
+	height: 57px;
+	margin-top: 92px;
+	font-family: Ubuntu-M; 
+}
+
+.v5_main6 .term15 {
+	font-size: 18px;
+	color: #434343;
+	font-family: Ubuntu-R;
+}
+
+.v5_main6 .down {
+	position: relative;
+}
+.v5_main6 .outside {
+	width: 76px;
+    position: absolute;
+    top: 85px;
+    left: -79px;
+}
+.v5_main7 {
+	background-color: #00363E;
+}
+.v5_main7 .v9_main5 .text16 {
+	font-size: 42px;
+}
+.v5_main8_0 {
+	height: 2px;
+	background-color:#E8E8E8;
+}
+
+.v5_main8::before {
+  	content: '';
+  	margin-top: -25px;
+    width: 896px;
+    height: 46px;
+    background: #E8E8E8;
+    position: absolute;
+    left: calc(50% - 453px);
+    border-radius: 15px;
+}
+.river {
+	margin-top: 65px;
+}
+.river img {
+	width: 100%;
+}
+.v6_main6 .term16 {
+	font-size: 24px;
+	color: #111958;
+	margin-top: 10px;
+	font-family: Ubuntu-B; 
+}
+.v6_main6 .term17 {
+	font-size: 18px;
+	color: #000;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-family: Ubuntu-R; 
+}
+.v6_main6 .term18 {
+	font-size: 28px;
+	color: #000;
+	margin-top: 15px;
+	font-family: Ubuntu-R; 
+}
+.v6_main6 .term19 {
+	font-size: 26px;
+	color: #000;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	font-family: Ubuntu-R; 
+}
+.v5_main9  {
+	background-color: #C8DBDB;
+}
+.v5_main9 .chance img {
+}
+#sad {
+	background-color: #C8DBDB;
+}
+#say {
+	background-color: #C8DBDB;
+}
+.v5_main9 .term20 {
+	font-size: 47px;
+	color: #00363e;
+	margin-top: 35px;
+	margin-bottom: 80px;
+	font-family: Ubuntu-M; 
+	text-align: center;
+}
+.v5_main9 .term21 {
+	font-size: 30px;
+	color: #000;
+	font-family: Ubuntu-L; 
+}
+.v5_main9 .term22 {
+	font-size: 24px;
+	color: #d8004c;
+	margin-top: 50px;
+	font-family: Ubuntu-R; 
+}
+.v5_main9 .term23 {
+	font-size: 18px;
+	color: #3a3a3a;
+	margin-top: 55px;
+	margin-bottom: 100px;
+	font-family: Ubuntu-I; 
+}
+.v5_main9 .where {
+	color: #111958;
+	font-family: Ubuntu-M; 
+}
+.v5_main10::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 30px 29px 0 29px;
+    border-color: #C8DBDB transparent transparent transparent;
+    left: calc(50% - 20.5px);
+}
+.v5_main10 img {
+	width: 100%;
+	margin-top: 180px;
+}
+.v5_main10 {
+	background-color: #3B3B3B;
+}
+.v5_main10 .can1 {
+	margin-top: 85px;
+	font-size: 48px;
+	font-family: Ubuntu-M; 
+	color: #fff;
+	text-align: center;
+}
+.v5_main10 .can2 {
+	margin-top: 90px;
+	font-size: 26px;
+	font-family: Ubuntu-M; 
+	color: #ffa054;
+}
+.v5_main10 .can3 {
+	margin-top: 45px;
+	font-size: 36px;
+	font-family: Ubuntu-L; 
+	color: #fff;
+}
+.v5_main10 .can4 {
+	margin-top: 60px;
+	font-size: 18px;
+	font-family: Ubuntu-M; 
+	color: #d2d2d2;
+}
+.v5_main10 .can5 {
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: Ubuntu-M; 
+	color: #36c6a4;
+}
+.v5_main10 .can6 {
+	margin-top: 75px;
+	font-size: 30px;
+	font-family: Ubuntu-L; 
+	color: #fff;
+
+}
+.v5_main10 .can7 {
+	margin-bottom: 120px;
+}
+.v5_main10 .slant {
+	font-family: Ubuntu-MI; 
+	color: #ffa054;
+}
+.v5_main11 {
+	background-color: #F5F5F5;
+
+}
+.v5_main11  img {
+	width: 100%;
+}
+.v5_main11 .my-img {
+	position: absolute;
+	width: 100%;
+	height: 1030px;
+}
+.v5_main11 .content {
+	position: relative;
+	top: 0;
+}
+.v5_main11 .term30 {
+	margin-top: 90px;
+	margin-bottom: 80px;
+	font-size: 48px;
+	font-family: Ubuntu-M; 
+	color: #204e55;
+	text-align: center;
+}
+
+.v5_main11 .term31 {
+	margin-top: 30px;
+	font-size: 24px;
+	font-family: Ubuntu-R; 
+	color: #40656b;
+}
+.v5_main11 .look {
+	font-size: 24px;
+	font-family: Ubuntu-R; 
+	color: #000;
+}
+.v5_main11 .term32 {
+	margin-top: 60px;
+	font-size: 18px;
+	font-family: Ubuntu-R; 
+	color: #000;
+}
+.v5_main11 .term33 {
+	margin-top: 60px;
+	font-size: 18px;
+	font-family: Ubuntu-I; 
+	color: #000;
+}
+.v5_main11 .term34 {
+	margin-top: 40px;
+	font-size: 24px;
+	font-family: Ubuntu-L; 
+	color: #3d6369;
+}
+.v5_main11 .term35 {
+	margin-top: 10px;
+	font-size: 18px;
+	font-family: Ubuntu-L; 
+	color: #000;
+}
+.v5_main11 .root {
+	color: #36c6a4;
+	font-family: Ubuntu-M; 
+}
+
+.v5_main11 .dream {
+	margin-top: 30px;
+}
+.v5_main11 button {
+	margin-top: 55px;
+	width: 355px;
+    font-size: 21.37px;
+    height: 95px;
+    border: none;
+    background-color: #36C6A4;
+    font-family: Ubuntu-M;
+    color: #fff;
+}
+.v5_main11 .to {
+	text-align: center;
+}
+.v5_main12 {
+	background-color: #F5F5F5;
+}
+.v5_main12 .v6_main10 {
+	background-color: #F5F5F5;
+}
+
+.v5_main12 .v6_main10  .lv1_block_info{
+	background-color: #F5F5F5;
+}
+
+
+
+
+
+
+
+@media(max-width: 1190px) {
+	.v5_main11 .my-img {
+	    height: 947px;
+	}
+	.v5_main11 .term30 {
+	    margin-top: 55px;
+	    margin-bottom: 48px;
+	}
+
+	.v5_main10 img {
+	    width: 100%;
+	    margin-top: 60px;
+	}
+	.v5_main10 .can7 {
+	    margin-bottom: 70px;
+	}
+	.v5_main10 .can6 {
+	    margin-top: 40px;
+	    font-size: 24px;
+	}
+	.v5_main10 .can4 {
+	    margin-top: 35px;
+	    font-size: 16px;
+	}
+	.v5_main10 .can3 {
+	    margin-top: 29px;
+	    font-size: 34px;
+	}
+	.v5_main10 .can2 {
+	    margin-top: 65px;
+	    font-size: 24px;
+	}
+	.v5_main9 .chance img {
+	    width: 70%;
+	}
+	.v5_main9 .term23 {
+	    font-size: 15px;
+	    margin-top: 42px;
+	    margin-bottom: 70px;
+	}
+	.v5_main9 .term22 {
+    	font-size: 19px;
+    	margin-top: 30px;
+	}
+	.v5_main9 .term21 {
+	    font-size: 23px;
+	}
+	.v5_main9 .term20 {
+    	font-size: 35px;
+    	margin-bottom: 65px;
+	}
+	.v6_main6 .term18 {
+	    font-size: 20px;
+	    margin-top: 5px;
+	}
+	.v6_main6 .term19 {
+		font-size: 20px;
+	    margin-top: 0;
+	    margin-bottom: 20px;
+	}
+	.v6_main6 .term16 {
+    	font-size: 19px;
+    	margin-top: 0;
+	}
+	.v5_main7 .v9_main5 .text16 {
+	    font-size: 34px;
+	}
+	.v5_main6 input[type=checkbox].css-checkbox + label.css-label {
+	    font-size: 28px;
+	    height: 57px;
+	    line-height: 35px;
+	    padding-top: 0;
+	    margin-top: 83px;
+	}
+	.v5_main3 .term6 {
+	    font-size: 26px;
+	    margin-top: 48px;
+	}
+	.v9_main8 .text17 {
+	    font-size: 36px;
+	}
+	.v5_main2 .term4 {
+	    font-size: 29px;
+	    margin-top: 119px;
+	}
+	.v5_main1 img {
+	    margin-top: 100px;
+	}
+	.v5_main1 .term1 {
+	    margin-top: 60px;
+	    font-size: 30px;
+	}
+}
+@media(max-width: 992px) {
+	.v5_main11 .my-img {
+	    height: 915px;
+	}
+	.v5_main11 button {
+	    margin-top: 25px;
+	    width: 38%;
+	    font-size: 20px;
+	    height: 73px;
+	}
+	.v5_main11 .term35 {
+	    font-size: 16px;
+	}
+	.v5_main10 img {
+	    width: 100%;
+	    margin-top: 130px;
+	}
+	.v5_main10 .can3 {
+	    margin-top: 22px;
+	    font-size: 29px;
+	}
+	.v5_main10 .can2 {
+	    margin-top: 53px;
+	    font-size: 20px;
+	}
+	.v5_main10 .can1 {
+	    margin-top: 70px;
+	    font-size: 39px;
+	}
+
+	.v5_main9 .term20 {
+	    font-size: 30px;
+	}
+	.v6_main6 .term18 {
+		display: none;
+	}
+	.v6_main6 .term19 {
+    	font-size: 16px;
+    	margin-top: 0;
+    	margin-bottom: 0;
+	}
+	.v6_main6 .term17 {
+	    font-size: 17px;
+	    color: #000;
+	    margin-top: 10px;
+	    margin-bottom: 7px;
+	}
+	.v6_main6 .term16 {
+	    font-size: 15px;
+	    margin-top: -50px;
+	}
+	.v5_main8::before {
+		display: none;
+	}
+	.v5_main7 .v9_main5 .text16 {
+	    font-size: 25px;
+	}
+	.v5_main6 .rain {
+		width: 100%;
+		margin-top: 40px;
+	}
+	.v5_main6  .text20 {
+		margin-bottom: 44px;
+	}
+	.v5_main6 input[type=checkbox].css-checkbox + label.css-label {
+	    font-size: 21px;
+	    height: 52px;
+	    line-height: 27px;
+	    padding-top: 0;
+	    margin-top: 79px;
+	}
+	.v5_main6 .term14 {
+	    font-size: 22px;
+	    margin-top: 34px;
+	    margin-bottom: 11px;
+	}
+	.v5_main6 .term13 {
+    	font-size: 39px;
+    	margin-top: 41px;
+	}
+	.v5_main4 .term8 {
+	    font-size: 37px;
+	    margin-top: 75px;
+	}
+	.v5_main4 .term9 {
+	    font-size: 30px;
+	    margin-top: 44px;
+	}
+	.v5_main4 .term10 {
+	    font-size: 19px;
+	    margin-top: 45px;
+	}
+	.v5_main4 .term11 {
+	    font-size: 26px;
+	    margin-top: 35px;
+	}
+	.v5_main4 .term12 {
+    	font-size: 20px;
+	    margin-top: 41px;
+	    margin-bottom: 43px;
+	}
+	.v5_main2 .btn1 {
+	    font-size: 18px;
+	}	
+	.v5_main2 .btn2 {
+	    font-size: 15px;
+	}	
+	.v5_main2 .term4 {
+	    font-size: 22px;
+	    margin-top: 94px;
+	}
+	.v5_main2 .term5 {
+	    margin-bottom: 65px;
+	}
+	.v5_main1 .term3 {
+	    margin-bottom: 10px;
+	    margin-top: 34px;
+	    font-size: 16px;
+	}
+	.v5_main1 .term2 {
+	    margin-top: 28px;
+	    font-size: 18px;
+	}
+	.v5_main1 img {
+	    margin-top: 80px;
+	}
+	.v5_main1 .term1 {
+	    margin-top: 40px;
+	    font-size: 22px;
+	}
+}
+@media(max-width: 767px) {
+	.v5_main11 .my-img {
+	    height: 1139px;
+	}
+	.v5_main11 img {
+	    width: 50%;
+	}
+	.v5_main11 .term30 {
+	    margin-top: 48px;
+	    margin-bottom: 48px;
+	    font-size: 35px;
+	}
+	.v5_main11 .content {
+		text-align: center;
+	}
+	.v5_main10 img {
+	    width: 35%;
+	    margin-top: 0;
+	}
+	.v5_main10 {
+		text-align: center;
+	}
+	.v5_main9 .term23 {
+	    margin-bottom: 20px;
+	}
+	.v5_main9 .chance img {
+	    width: 35%;
+	}
+	.v5_main9 .term20 {
+	    font-size: 28px;
+	    margin-bottom: 50px;
+	}
+	.v5_main9 .moon {
+		text-align: center;
+	}
+	.v6_main6 .term16 {
+	    font-size: 21px;
+	    text-align: center;
+	    margin-top: 10px;
+	}
+	.v6_main6 .term17 {
+	    font-size: 21px;
+	    text-align: center;
+	    margin-top: 10px;
+	}
+	.v6_main6 .term19 {
+	    font-size: 18px;
+	    text-align: center;
+	    margin-top: 10px;
+	}
+	.v5_main6 .term14 {
+	    font-size: 19px;
+	    margin-top: 29px;
+	    margin-bottom: 0;
+	}
+	.v5_main6 .term13 {
+    	font-size: 31px;
+    	margin-top: 34px;
+	}
+	.v5_main6 .cl1 {
+		text-align: center;
+	}
+	.v5_main6 .rain {
+    	width: 35%;
+	}
+	.v5_main4 .term8 {
+	    font-size: 29px;
+	    margin-top: 75px;
+	}
+	.v5_main4 .term9 {
+	    font-size: 22px;
+	    margin-top: 44px;
+	}
+	.v5_main4 .term10 {
+	    font-size: 18px;
+	    margin-top: 45px;
+	}
+	.v5_main4 .term11 {
+	    font-size: 21px;
+	    margin-top: 35px;
+	}
+	.v5_main4 .term12 {
+    	font-size: 18px;
+	    margin-top: 41px;
+	    margin-bottom: 43px;
+	}
+	.v5_main4 .oops {
+		display: none;
+	}
+	.v5_main3 img {
+	    width: 50%;
+	}
+	.v5_main3 .term6 {
+
+	    font-size: 24px;
+	    margin-top: 20px;
+	}
+	.v9_main8 .text17 {
+	    font-size: 27px;
+	}
+	.v5_main2 img {
+	    width: 40%;
+	    margin-bottom: 50px;
+	}
+	.v5_main2 .btn1 {
+	    margin-bottom: 20px;
+	}	
+	.v5_main2 .term4 {
+		text-align: center;
+	}
+	.v5_main2 .term5 {
+		text-align: center;
+		margin-bottom: 0;
+	}
+	.v5_main2 {
+		text-align: center;
+	}
+	.v5_main1  {
+	   text-align: center;
+	}
+	.v5_main1 img {
+		margin-top: 25px;
+	    width: 50%;
+	}
+}
+@media(max-width: 600px) {
+	.v5_main11 {
+		margin-bottom: 50px;
+	}
+	.v5_main11 .my-img {
+	   display: none;
+	}
+	.v5_main11 button {
+    	width: 80%;
+	}
+	.v5_main11 .term35 {
+	    font-size: 15px;
+	}
+	.v5_main11 .term33 {
+    	margin-top: 17px;
+    	font-size: 17px;
+	}
+	.v5_main11 .term32 {
+    	margin-top: 17px;
+	}
+	.v5_main7 .v9_main5 .text16 {
+	    font-size: 20px;
+	}
+	.v5_main4 .term8 {
+	    font-size: 24px;
+	    margin-top: 75px;
+	}
+	.v5_main4 .term9 {
+	    font-size: 22px;
+	    margin-top: 44px;
+	}
+	.v5_main4 .term10 {
+	    font-size: 18px;
+	    margin-top: 45px;
+	}
+	.v5_main4 .term11 {
+	    font-size: 21px;
+	    margin-top: 35px;
+	}
+	.v5_main4 .term12 {
+    	font-size: 18px;
+	    margin-top: 41px;
+	    margin-bottom: 43px;
+	}
+	.v5_main3::before {
+	    border-width: 70px 0 0 70px;
+	    left: calc(50% - 36px);
+	}
+	.v5_main3 .term6 {
+	    font-size: 19px;
+	}
+	.v9_main8 .text17 {
+	    font-size: 22px;
+	}
+}
+@media(max-width: 500px) {
+	.v5_main4 .term8 {
+	    font-size: 19px;
+	    margin-top: 60px;
+	}
+	.v5_main4 .term9 {
+	    font-size: 20px;
+	    margin-top: 30px;
+	}
+	.v5_main4 .term10 {
+	    font-size: 17px;
+	    margin-top: 30px;
+	}
+	.v5_main4 .term11 {
+	    font-size: 19px;
+	    margin-top: 25px;
+	}
+	.v5_main4 .term12 {
+    	font-size: 17px;
+	    margin-top: 35px;
+	    margin-bottom: 25px;
+	}
+	.v5_main3 .term6 {
+	    font-size: 17px;
+	}
+	.v9_main8 .text17 {
+	    font-size: 18px;
+	}
+	.v5_main2 .btn1 {
+	    font-size: 17px;
+	}
+	.v5_main2 .btn2 {
+	    font-size: 13px;
+	}
+	.v5_main2 .term4 {
+	    font-size: 19px;
+	    margin-top: 47px;
+	}
+}
+@media(max-width: 400px) {
+	.v5_main11 {
+	    margin-bottom: 0;
+	}
+	.v5_main11 button {
+	    width: 95%;
+	}
+	.v5_main11 .look {
+		font-size: 20px;
+	}
+	.v5_main11 .term31 {
+	    margin-top: 30px;
+	    font-size: 20px;
+	}
+	.v5_main11 .term30 {
+	    margin-top: 48px;
+	    margin-bottom: 48px;
+	    font-size: 28px;
+	}
+	.v5_main11 img {
+	    width: 100%;
+	}
+	.v5_main11 .term35 {
+	    font-size: 14px;
+	}
+	.v5_main11 .term34 {
+	    margin-top: 21px;
+	    font-size: 18px;
+	}
+	.v5_main10 .can7 {
+	    margin-bottom: 20px;
+	}
+	.v5_main10 .can6 {
+	    margin-top: 33px;
+	    font-size: 17px;
+	}
+	.v5_main10 .can4 {
+	    margin-top: 25px;
+	    font-size: 13px;
+	}
+	.v5_main10 .can3 {
+	    margin-top: 20px;
+	    font-size: 24px;
+	}
+	.v5_main10 .can2 {
+	    margin-top: 39px;
+	    font-size: 16px;
+	}
+	.v5_main10 .can1 {
+	    margin-top: 60px;
+	    font-size: 25px;
+	}
+	.v5_main9 .term22 {
+	    font-size: 16px;
+	    margin-top: 23px;
+	}
+	.v5_main9 .term21 {
+	    font-size: 20px;
+	}
+	.v5_main9 .term20 {
+	    font-size: 19px;
+	    margin-bottom: 25px;
+	}
+	.v6_main6 .term16 {
+	    font-size: 17px;
+	}
+	.river {
+	    margin-top: 8px;
+	}
+	.v6_main6 .unit24 {
+	    font-size: 23px;
+	}
+	.v5_main7 .v9_main5 .text16 {
+	    font-size: 17px;
+	}
+	.v5_main6 .outside {
+		display: none;
+	}
+	.v5_main6 .term15 {
+    	font-size: 13px;
+	}
+	.v5_main6 input[type=checkbox].css-checkbox + label.css-label {
+	    font-size: 20px;
+	    height: 52px;
+	    line-height: 20px;
+	    padding-top: 0;
+	    margin-top: 40px;
+	}
+	.v5_main6 .term14 {
+	    font-size: 15px;
+	}
+	.v5_main6 .term13 {
+	    font-size: 25px;
+	    margin-top: 26px;
+	}
+	.v5_main4 .term8 {
+	    font-size: 15px;
+	    margin-top: 40px;
+	}
+	.v5_main4 .term9 {
+	    font-size: 18px;
+	    margin-top: 20px;
+	}
+	.v5_main4 .term10 {
+	    font-size: 16px;
+	    margin-top: 20px;
+	}
+	.v5_main4 .term11 {
+	    font-size: 17px;
+	    margin-top: 25px;
+	}
+	.v5_main4 .term12 {
+    	font-size: 16px;
+	    margin-top: 30px;
+	    margin-bottom: 25px;
+	}
+	.v5_main3 .term7 {
+	    font-size: 16px;
+	    margin-top: 8px;
+	    margin-bottom: 28px;
+	}
+	.v5_main3 .term6 {
+	    font-size: 13px;
+	}
+	.v9_main8 .text17 {
+	    font-size: 14px;
+	}
+	.v5_main2 img {
+	    margin-top: 40px;
+	}
+	.v5_main2 .cloud {
+	    width: 100%;
+	}
+	.v5_main2 .term4 {
+	    font-size: 15px;
+	}
+	.v5_main1 .term1 {
+	    font-size: 16px;
+	}
+	.v5_main1 .term2 {
+	    font-size: 15px;
+	}
+	.v5_main1 .term3 {
+	    font-size: 15px;
+	}
+}
+
+
+

@@ -1,0 +1,1172 @@
+.v11-L h1, .v11-L h2, .v11-L h3, .v11-L p {
+	margin: 0;
+	padding: 0;
+}
+label {
+    font-weight: normal;
+}
+.row_header2 {
+	background-image: url('../img/site/page_10/back1_10.png'); 
+	background-color: #00363E;
+	
+}
+.v11_main  {
+
+}
+.v11_main .text1 {
+	color: #fff;
+	font-size: 55.64px;
+	font-family: Ubuntu-M;
+	text-align: center;
+	margin-top: 49px;
+}
+.v11_main .text2 {
+	color: #d7d7d7;
+	font-size: 39.04px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	margin-top: 19px;
+}
+.v11_main .text3 {
+	margin-top: 120px;
+	color: #fff;
+	font-size: 30px;
+	font-family: Ubuntu-R;
+}
+.v11_main .text4 {
+	font-family: Ubuntu-M;
+	color: #ffa054;
+}
+.v11_main .text5 {
+	color: #fff;
+	font-size: 18px;
+	font-family: Ubuntu-R;
+	margin-top: 49px;
+	margin-bottom: 70px;
+}
+.v11_main img {
+	margin-top: 10px;
+	width: 85%;
+}
+.v11_main1 {
+	background-color: #E8E8E8;
+	padding-top: 90px;
+}
+.v11_main1 img {
+	width: 90%;
+}
+.v11_main1 .text6 {
+	margin-top: 40px;
+	font-size: 37px;
+	color: #052d4f;
+	font-family: Ubuntu-L;
+}
+.v11_main1 .text7 {
+	margin-top: 54px;
+	font-size: 24px;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v11_main1 .text8 {
+	margin-top: 44px;
+	font-size: 24px;
+	color: #6b6b6b;
+	font-family: Ubuntu-L;
+	margin-bottom: 120px;
+}
+.v11_main1 .v10_main4 {
+	background-color: #E8E8E8;
+}
+
+.v11_main1 .v10_main4 .second-line .block {
+	width: 494px;
+	height: 193px;
+	padding: 11px;
+}
+.v11_main1 .v10_main4 .second-line .block .border {
+	height: 171px;
+}
+.v11_main1  .v10_main4 .second-line .block .border .text13 {
+	margin-top: 37px;
+}
+.v11_main1 .v10_main4 .second-line .block::after {
+	top: 87px;
+}
+
+.v11_main1 .v10_main4 .second-line .block .border .text13 {
+	font-size: 24px;
+	text-transform: none;
+}
+.v11_main1  .v10_main4 .text12 {
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-size: 30px;
+    color: #12444b;
+    font-family: Ubuntu-R;
+}
+.v11_main1 .v10_main4 .second-line {
+	margin-bottom: 60px;
+}
+.v11_main1 .text14 {
+	text-align: center;
+	font-size: 38px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+}
+.v11_main2 {
+	background-color: #D5E0E0;
+}
+.v11_main2 .text15 {
+	margin-top: 50px;
+	margin-bottom: 80px;
+	font-size: 61.97px;
+	text-align: center;
+	color: #00363e;
+	font-family: Ubuntu-M;	
+}
+.v11_main2 .text16 {
+	margin-top: 20px;
+	font-size: 30px;
+	color: #00363e;
+	font-family: Ubuntu-R;	
+}
+.v11_main2 .text17 {
+	line-height: 38px;
+	margin-top: 92px;
+	font-size: 22px;
+	color: #4b4b4b;
+	font-family: Ubuntu-R;	
+}
+.v11_main2 .text18 {
+	margin-top: -40px;
+	line-height: 30px;
+	font-size: 22px;
+	text-align: center;
+	color: #4b4b4b;
+	font-family: Ubuntu-R;	
+}
+.v11_main2 img {
+	width: 100%;
+}
+.v11_main2 .block {
+	margin-bottom: 50px;
+}
+.v11_main2 .block2 {
+	text-align: center;
+	margin-bottom: 63px;
+}
+.v11_main2 .v11_btn {
+	width:  346px;
+	height: 90px;
+	background-color: #36C6A4;
+	font-size: 20.69px;
+	color: #fff;
+	font-family: Ubuntu-M;	
+	border:0;
+}
+
+.v11_main3::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    position: absolute;
+    border-style: solid;
+    border-width: 80px 0 0 80px;
+    border-color: #D5E0E0 transparent transparent transparent;
+    left: calc(50% - 53px);
+    margin-top: -50px;
+}
+.v11_main3  {
+	background-color: #0A6877;
+}
+.v11_main3  .v9_main8 {
+	background-color: #0A6877;
+}
+.v11_main3 .text50 {
+	margin-top: 80px;
+	font-size: 64.48px;
+	text-align: center;
+	color: #fff;
+	font-family: Ubuntu-M;
+}
+.v11_main3 .v9_main8 .text19 {
+	margin-top: 90px;
+	font-size: 36.6px;
+}
+.v11_main3 img {
+	margin-top: 100px;
+	width: 100%;
+}
+.v11_main3 .v9_main8 .text20 label{
+	color:#e8e8e8;
+	font-size: 24px;
+	font-family: Ubuntu-L;
+}
+
+.v11_main3  label.css-label {
+	width: 100% ! important;
+    background-color: rgba(18, 147, 168, 0.23) ! important;
+}
+.v11_main4 {
+	background-color: #fff;
+}
+.v11_main4 .v9_main9 {
+	background-color: #fff;
+}
+.v11_main4 .v9_main9 .text22 {
+	margin-top: 77px;
+	margin-bottom: 88px;
+	color: #033840;
+}
+.v11_main4 .v9_main9 .text23  {
+	text-align: left;
+	margin-top: 70px;
+	font-size: 45px;
+}
+.v11_main5::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 37px 35px 0 35px;
+    border-color: #fff transparent transparent transparent;
+    left: calc(50% - 18.5px);
+}
+.v11_main5 {
+	background-color: #00616F;
+}
+.v11_main5 .text51 {
+	margin-top: 86px;
+	margin-bottom: 68px;
+	font-size: 72.22px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	color: #fff;
+}
+
+.v11_main6 {
+	background-color: #D5E0E0;
+}
+.v11_main6 .text52 {
+	margin-top: 60px;
+	margin-bottom: 100px;
+	font-size: 25.58px;
+	color: #00616f;
+	font-family: Ubuntu-L;
+	text-align: center;
+}
+.v11_main6 .text53 {
+	margin-top: 92px;
+	margin-bottom: 53px;
+	font-size: 19.89px;
+	color: #000;
+	font-family: Ubuntu-L;
+	text-align: center;
+}
+.v11_main6 .block3 {
+	width: 347px;
+	padding: 35px;
+	background-color: #fff;
+}
+.v11_main6 .block3 .first {
+	color: #043840;
+	font-family: Ubuntu-L;
+	text-align: center;
+	font-size: 31.37px;
+	margin-bottom: 23px;
+	border-bottom: 2px solid  #E6ECEC;
+}
+.v11_main6 .block3 .second {
+	height: 189px;	
+	background-color: #CFCFCF;
+	margin-bottom: 30px;
+}
+.v11_main6 .block3 .third button {
+	width:  276px;
+	height: 44px;
+	background-color: #36C6A4;
+	font-size: 14.83px;
+	color: #fff;
+	font-family: Ubuntu-M;	
+	border:0;
+}
+.v11_main6 .block32 {
+	border: 1px solid #E6E6E6;
+	transform:scale(1.3);
+} 
+.v11_main6  .middle_block {
+	z-index: 5;
+}
+
+.v11_main7 {
+	text-align: center;
+	background-color: #00363E;
+}
+.v11_main7 .text54 {
+	margin-top: 45px;
+	font-size: 45.7px;
+	color: #fff;
+	font-family: Ubuntu-M;
+	text-align: center;
+}
+.v11_main7 .text55 {
+	margin-top: 24px;
+	font-size: 19.89px;
+	color: #fff;
+	font-family: Ubuntu-M;
+	text-align: center;
+}
+.v11_main7 .v11_btn {
+	width: 335px;
+	height: 55px;
+	background-color: #36C6A4;
+	font-size: 11.61px;
+	color: #fff;
+	font-family: Ubuntu-M;	
+	border:0;
+	margin-top: 39px;
+	margin-bottom: 48px;
+}
+.v11_main8::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 30px 29px 0 29px;
+    border-color: #00363E transparent transparent transparent;
+    left: calc(50% - 6.5px);
+}
+.v11_main8 .v8_main5 {
+	background-color:  #E8E8E8;
+}
+.v11_main8 {
+	background-color: #E8E8E8;
+}
+ .v11_main8 .v8_main5 .couple1 {
+ 	width: 98%;
+ }
+ .v11_main8 .v8_main5 .couple2 {
+ 	width: 98%;
+ }
+ .v11_main9 {
+ 	height: 1092px;
+ }
+ .v11_main9 .img2 {
+ 	background-color: #fff;
+ 	position: absolute;
+ 	width: 100%;
+ 	height: 1092px;
+ }
+ .v11_main9  .content {
+ 	height: 40px;
+ 	position: relative;
+ }
+ .v11_main9 .img3 {
+ 	width: 100%;
+	margin-top: 177px;
+}
+ .v11_main9 .img6 {
+ 	width: 100%;
+}
+.v11_main9 .v8_main4 {
+	background-color: #C8DBDB;
+	padding-bottom: 0;
+}
+.v11_main9 .v8_main4 .name { 
+	color: #00363e;
+	margin-bottom: 36px;
+	margin-top: 20px;
+}
+
+.v11_main9 .text56 {
+ 	margin-top: 80px;
+ 	font-size: 30px;
+ 	margin-bottom: 49px;
+ 	font-family: Ubuntu-M;
+ 	text-align: center;
+}
+.v11_main9 .text57 {
+ 	font-size: 30px;
+ 	margin-bottom: 60px;
+ 	font-family: Ubuntu-R;
+}
+.v11_main9 .text58 {
+	color: #f30072;
+ 	font-size: 30px;
+ 	font-family: Ubuntu-M;
+}
+.v11_main9 .text59 {
+	color: #00363e;
+ 	font-size: 22px;
+ 	margin-bottom: 55px;
+ 	font-family: Ubuntu-R;
+}
+.v11_main9 .text60{
+	color: #f30072;
+ 	font-size: 22px;
+ 	font-family: Ubuntu-M;
+}
+.v11_main9 .img4 {
+	width: 100%;
+	margin-top: 110px;
+}
+.v11_main10 {
+	text-align: center;
+	background-color: #fff;
+}
+.v11_main10  .text70 {
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	font-size: 46px;
+ 	font-family: Ubuntu-M;
+	color: #00363e;
+}
+.v11_main10 .v11_btn {
+	width: 600px;
+	height: 128px;
+	background-color: #36C6A4;
+	font-size: 28.78px;
+	color: #fff;
+	font-family: Ubuntu-B;	
+	border:0;
+	margin-top: 39px;
+	margin-bottom: 48px;
+	margin-bottom: 60px;
+}
+.v11_main12  .text80 {
+	margin-top: 70px;
+	margin-bottom: 40px;
+	font-size: 48px;
+	text-align: center;
+ 	font-family: Ubuntu-M;
+	color: #00363e;
+}
+.v11_main12  .text81 {
+	color: #00363e;
+	font-family: Ubuntu-B;
+}
+
+.v11_main12  .text82 {
+	margin-bottom: 15px;
+	font-size: 28.15px;
+ 	font-family: Ubuntu-M;
+	color: #686868;
+}
+.v11_main12  .text83 {
+	color: #000;
+}
+.v11_main12  .text84 {
+	color: #ea0000;
+}
+
+.v11_main12  .text85 {
+	font-family: Ubuntu-M;
+	font-size: 22px;
+	color: #36c6a4;
+}
+.v11_main12  .text86 {
+	color: #444444;
+}
+.v11_main12  .text87 {
+	text-align: center;
+	margin-top: 100px;
+	font-size: 41.88px;
+ 	font-family: Ubuntu-M;
+	color: #000;
+}
+.v11_main12  .text88 {
+	font-family: Ubuntu-M;
+	color: #ffa054;
+}
+.v11_main12 .my_cl {
+	text-align: right;
+    padding-right: 122px;
+
+}  
+    
+
+
+@media(max-width: 1199px) {
+	.v11_main12 .text88 {
+		padding-top: 0 ! important;
+		font-size: 34px ! important;
+	}
+	.v11_main12 .text85 {
+		font-size: 19px;
+	}
+	.v11_main12 .text82 {
+		font-size: 21px;
+	}
+	.v11_main12 .text80 {
+		font-size: 34px;
+	}
+	.v11_main10 .text70 {
+	    margin-bottom: 30px;
+	    font-size: 37px;
+	}
+	.v11_main9 .text57 {
+	    font-size: 23px;
+	    margin-bottom: 40px;
+	}
+	.v11_main9 .text58 {
+	    font-size: 23px;
+	}
+	.v11_main9 .text59 {
+	    font-size: 17px;
+	    margin-bottom: 38px;
+	}
+	.v11_main9 .text60 {
+	    font-size: 17px;
+	}
+	.v11_main6 .block3 .third button {
+    	width: 100%;
+	}
+	.v11_main6 .block3 {
+		width: 100%;
+	}
+	.v11_main4 .v9_main9 .text23 {
+	    font-size: 36px;
+	}
+	.v11_main3 img {
+		margin-top:0;
+		width: 50%;
+	}
+	.v11_main3 .cl3 {
+		text-align: center;
+	}
+	.v11_main3 .v9_main8 .text19 {
+	    margin-top: 42px;
+	    font-size: 23px;
+	    text-align: center;
+	}
+	.v11_main3 .text50 {
+	    margin-top: 67px;
+	    font-size: 40px;
+	}
+	.v11_main2 .text17 {
+    	margin-top: 36px;
+	}
+	.v11_main2 .text16 {
+    	margin-top: 0;
+    	font-size: 25px;
+	}
+	.v11_main2 .text15 {
+    	font-size: 50px;
+	}
+	.v11_main1 .text14 {
+    	font-size: 35px;
+	}
+	.v11_main1 .v10_main4 .text12 {
+    	margin-top: 37px;
+    	margin-bottom: 10px;
+    	font-size: 29px;
+	}
+	.v11_main1 .v10_main4 .second-line .block {
+		width: 100%;
+	}
+	.v11_main1 .text6 {
+    	margin-top: 0;
+    	font-size: 33px;
+	}
+	.v11_main .text5 {
+	    font-size: 15px;
+	    margin-top: 35px;
+	    margin-bottom: 20px;
+	}
+	.v11_main .text3 {
+		font-size: 23px;
+	}
+	.v11_main .text1 {
+		font-size: 45px;
+	}
+	.v11_main .text2 {
+		font-size: 32px;
+	}
+	.v11_main img {
+	    margin-top: 74px;
+	}
+}
+@media(max-width: 992px) {
+	.v11_main12 .my_cl {
+	    text-align: center;
+	    padding-right: 0;
+	}
+	.v11_main12 .lv1_block_info img {
+	    width: 50%;
+	}
+	.v11_main12 .text88 {
+		padding-top: 0 ! important;
+		font-size: 30px ! important;
+	}
+	.v11_main12 .text85 {
+		font-size: 19px;
+	}
+	.v11_main12 .text87 {
+		margin-top: 0;
+		font-size: 30px ! important;
+	}
+	.v11_main12 .text82 {
+		font-size: 21px;
+	}
+	.v11_main12 .text80 {
+		font-size: 31px;
+	}
+	.v11_main10 .v11_btn {
+	    width: 526px;
+	    height: 107px;
+    	font-size: 25px;
+	}
+	.v11_main10 .text70 {
+	    margin-bottom: 10px;
+	    font-size: 29px;
+	}
+	.v11_main9 {
+	    height: 910px;
+	}
+	.v11_main9 .img6 {
+	   display: none;
+	}
+	.v11_main9 .img2 {
+	    height: 912px;
+	}
+	.v11_main9 .text57 {
+	    font-size: 18px;
+	    margin-bottom: 20px;
+	}
+	.v11_main9 .text58 {
+	    font-size: 18px;
+	}
+	.v11_main9 .text59 {
+	    font-size: 15px;
+	    margin-bottom: 20px;
+	}
+	.v11_main9 .text60 {
+	    font-size: 15px;
+	}
+	.v11_main8 .v8_main5 .couple1 {
+	    width: auto;
+	}
+	.v11_main8 .v8_main5 .couple2 {
+	    width: auto;
+	}
+	.v11_main7 .text54 {
+	    font-size: 30px;
+	}
+	.v11_main6 .block3 .second {
+    	height: 140px;
+	}
+	.v11_main5 .text51 {
+	    margin-top: 60px;
+	    margin-bottom: 43px;
+	    font-size: 50px;
+	}
+	.v11_main4 .v9_main9 .text23 {
+	    font-size: 27px;
+	    margin-top:42px;
+	}
+	.v11_main2 .text15 {
+	    margin-top: 36px;
+	    margin-bottom: 53px;
+	}
+	.v11_main2 .text18 {
+		font-size: 20px;
+	}
+	.v11_main2 .text17 {
+    	line-height: 27px;
+	}
+	.v11_main2 .text16 {
+	    font-size: 20px;
+	}
+	.v11_main1 .v10_main4 .text12 {
+	    margin-top: 52px;
+	    margin-bottom: 10px;
+	    font-size: 25px;
+	    padding-left: 10px;
+	}
+	.v11_main1 .v10_main4 .second-line .block .border .text13 {
+    	font-size: 20px;
+	}
+	.v10_main4 {
+		padding-top: 0;
+	}
+	.v11_main1 .text7 {
+    	margin-top: 25px;
+    	font-size: 20px;
+	}
+	.v11_main1 .text6 {
+    	font-size: 25px;
+	}
+	.v11_main1 .text8 {
+    	margin-top: 33px;
+    	font-size: 23px;
+	}	
+}
+@media(max-width: 768px) {
+	.v11_main10 .v11_btn {
+	    width: 456px;
+	    height: 74px;
+	    font-size: 20px;
+	}
+	.v11_main10 .text70 {
+	    margin-bottom: 0;
+	    font-size: 23px;
+	}
+	.v11_main9 {
+	    height: 730px;
+	}
+	.v11_main9 .img2 {
+	    height: 736px;
+	}
+	.v11_main9 .img4 {
+		display: none;
+	}
+	.v11_main9 .v8_main4 {
+		padding-top: 0;
+	}
+	.v11_main9 .text56 {
+	 	margin-top: 37px;
+	 	margin-bottom: 40px;
+	}
+	.v11_main9 .img3 {
+	   display: none;
+	}
+	.v11_main8::before {
+	    left: calc(50% - 42.5px);
+	}
+	.v11_main6 .block3 .first {
+		font-size: 23px;
+	}
+	.v11_main6 .block3 .second {
+	    height: 80px;
+	}
+	.v11_main5 .text51 {
+	    margin-top: 50px;
+	    margin-bottom: 33px;
+	    font-size: 40px;
+	}
+	.v11_main4 .v9_main9 .text23 {
+	    font-size: 22px;
+	    margin-top:24px;
+	}
+	
+	.v11_main3 .v9_main8 .text19 {
+    	margin-top: 33px;
+	}
+	.v11_main3 .text50 {
+	    font-size: 30px;
+	}
+	.v11_main3 .v9_main8 .text20 {
+		text-align: center;
+	}
+	.v11_main3 label.css-label {
+    	width: 80% ! important;
+	}
+	.v11_main2 .text15 {
+	    font-size: 40px;
+	}
+	.v11_main2 .text18 {
+	    margin-top: 0;
+	}
+	.v11_main2 .text17 {
+	    line-height: 30px;
+	    text-align: center;
+	    font-size: 19px;
+	}
+	.v11_main2 .text16 {
+	    margin-top: 23px;
+	    text-align: center;
+	    font-size: 17px;
+	}
+	.v11_main2 img {
+	    width: 40%;
+	}
+	.v11_main2 .cl1 {
+		text-align: center;
+	}
+	.v11_main1 .disturbid {
+		padding-top: 13px ! important;
+	}
+	.v11_main1 .text14 {
+	    font-size: 26px;
+	}
+	.v11_main1 .v10_main4 .second-line .block {
+	    width: 494px;
+	    margin: 0 auto;
+	}
+	.v11_main1 .text8 {
+		margin-bottom: 40px;
+	}
+	.v11_main1 {
+	    padding-top: 40px;
+	}
+	.v11_main1 .block1 {
+		text-align: center;
+	}
+	.v11_main1 .block2 {
+		text-align: center;
+	}
+	.v11_main1 img {
+	    width: 40%;	
+	}
+	.v11_main .text3 {
+		text-align: center;
+		margin-top: 70px;
+		font-size: 20px;
+	}	
+	.v11_main .text5 {
+		text-align: center;
+	    font-size: 14px;
+	    margin-top: 32px;
+	    margin-bottom: 0;
+	}
+	.v11_main .block2 {
+		text-align: center;
+	}
+	.v11_main img {
+		width: 40%;
+		margin-top: 20px;
+	}
+}
+@media(max-width: 600px) {
+	.v11_main12 .my_cl {
+	    text-align: center;
+	    padding-right: 0;
+	}
+	.v11_main12  .lv1_block_info img {
+	    width: 50%;
+	    margin: 0 ! important;
+	}
+	.v11_main12 .text88 {
+		padding-bottom: 10px ! important;
+		padding-top: 0 ! important;
+		font-size: 20px ! important;
+	}
+	.v11_main12 .text85 {
+		font-size: 15px ! important;
+	}
+	.v11_main12 .text87 {
+		margin-top: 0;
+		font-size: 18px ! important;
+		margin-bottom: 10px ! important;
+	}
+	.v11_main12 .text82 {
+		font-size: 15px ! important;
+	}
+	.v11_main12 .text80 {
+		font-size: 20px;
+	}
+	.v11_main10 .v11_btn {
+	    width: 94%;
+	    height: 67px;
+	    font-size: 14px;
+	    margin-bottom: 20px;
+	}
+	.v11_main9 .v8_main4 .name {
+		font-size: 20px;
+	}
+	.v11_main10 .text70 {
+	    margin-bottom: 0;
+	    font-size: 17px;
+	}
+	.v11_main9 {
+	    height: 682px;
+	}
+	.v11_main9 .img2 {
+	    height: 690px;
+	}
+	.v11_main9 .text57 {
+	    font-size: 14px;
+	    margin-bottom: 10px;
+	}
+	.v11_main9 .text58 {
+	    font-size: 14px;
+	}
+	.v11_main9 .text60 {
+	    font-size: 14px;
+	}
+	.v11_main9 .text59 {
+	    font-size: 14px;
+	    margin-bottom: 20px;
+	}
+	.v11_main9 .text56 {
+	 	margin-top: 26px;
+	 	margin-bottom: 29px;
+	}
+	.v11_main8 .v8_main5 .couple2 {
+	     margin-right: 0; 
+	}
+	.v11_main7 .v11_btn {
+	    margin-top: 29px;
+	    margin-bottom: 20px;
+	}
+	.v11_main7 .text54 {
+	    font-size: 22px;
+	}
+	.v11_main7 .text55 {
+	    font-size: 16px;
+	}
+	.v11_main6 .text53 {
+	    margin-top: 64px;
+	    margin-bottom: 39px;
+	    font-size: 17px;
+	}
+	.v11_main6 .text52 {
+	    margin-top: 50px;
+	    margin-bottom: 83px;
+	    font-size: 23px;
+	}	
+	.v11_main6 .block3 {
+    	padding: 13px;
+	}
+	.v11_main6 .block3 .second {
+		margin-bottom: 17px;
+	    height: 54px;
+	}
+	.v11_main6 .block3 .third button {
+	    height: 28px;
+	    font-size: 11px;
+	}
+	.v11_main6 .block3 .first {
+		margin-bottom: 16px;
+	    font-size: 18px;
+	}
+	.v11_main5 .text51 {
+	    font-size: 28px;
+	}
+	.v11_main4 .v9_main9 .text22 {
+	    margin-top: 34px;
+	    margin-bottom: 50px;
+	}
+	.v11_main4 .v9_main9 .text23 {
+	    font-size: 16px;
+	    margin-top:12px;
+	}
+	.v11_main2 .text15 {
+	    font-size: 30px;
+	}
+	.v11_main2 .text17 {
+	    line-height: 30px;
+	    text-align: center;
+	    font-size: 16px;
+	}
+	.v11_main2 .text16 {
+	    font-size: 16px;
+	}
+	.v10_main4 .second-line {
+	    margin-top: 43px;
+	}
+	.v11_main1 .v10_main4 .second-line .block .border .text13 {
+	    font-size: 17px;
+	}
+	.v11_main1 .v10_main4 .second-line .block {
+	    width: 340px;
+	}
+	.v11_main1 .text14 {
+	    font-size: 21px;
+	}
+	.v11_main1 .text8 {
+	    margin-top: 23px;
+	    margin-bottom: 20px;
+	    font-size: 19px;
+	}
+	.v11_main1 .text7 {
+	    font-size: 17px;
+	}
+	.v11_main1 .text6 {
+	    font-size: 20px;
+	}
+	.v11_main .text1 {
+		margin-top: 20px;
+	    font-size: 30px;
+	}	
+	.v11_main .text2 {
+	    font-size: 24px;
+	}
+	.v11_main .text3 {
+	    text-align: center;
+	    margin-top: 40px;
+	    font-size: 16px;
+	}
+	.v11_main .text5 {
+	    font-size: 13px;
+	}
+}
+@media(max-width: 568px) {
+	.v11_main8::before {
+	    left: calc(50% - 31.5px);
+	}
+	.v11_main1 .disturbid {
+	    padding-top: 0 ! important;
+	}
+}
+@media(max-width: 400px) {
+	.v11_main12 .text80 {
+		margin-top: 20px;
+	    font-size: 16px;
+	}
+	.v11_main12 .text88 {
+		padding-bottom: 10px ! important;
+		padding-top: 0 ! important;
+		font-size: 14px ! important;
+	}
+	.v11_main12 .text87 {
+		padding-top: 20px ! important;
+		font-size: 14px ! important;
+		margin-bottom: 10px ! important;
+	}
+	.v11_main10 .text70 {
+	    margin-bottom: 0;
+	    font-size: 13px;
+	}
+	.v11_main9 {
+	    height: 658px;
+	}
+	.v11_main9 .img2 {
+	    height: 660px;
+	}
+	.v11_main9 .v8_main4 .name {
+		font-size: 15px;
+	}
+	.v11_main9 .text56 {
+	 	font-size: 25px;
+	}
+	.v11_main9 .text57 {
+	    font-size: 13px;
+	    margin-bottom: 25px;
+	}
+	.v11_main9 .text58 {
+	    font-size: 13px;
+	}
+	.v11_main9 .text59 {
+	    font-size: 13px;
+	    margin-bottom: 25px;
+	}
+	.v11_main9 .text60 {
+	    font-size: 13px;
+	}
+	.v11_main7 .text54 {
+	    font-size: 18px;
+	}
+	.v11_main7 .v11_btn {
+    	width: 80%;
+	}
+	.v11_main6 .text53 {
+	    margin-top: 45px;
+	    margin-bottom: 16px;
+	    font-size: 14px;
+	}
+	.v11_main6 .block3 .third button {
+	    height: 17px;
+	    font-size: 6px;
+	}
+	.v11_main6 .block3 .first {
+	    margin-bottom: 11px;
+	    font-size: 11px;
+	}
+	.v11_main6 .block3 .second {
+		margin-bottom: 0;
+	    height: 26px;
+	}
+	.v11_main6 .text52 {
+	    margin-top: 40px;
+	    margin-bottom: 50px;
+	    font-size: 17px;
+	}
+	.v11_main5::before {
+		border-width: 25px 25px 0 25px;
+	}
+	.v11_main5 .text51 {
+	    margin-top: 30px;
+	    margin-bottom: 20px;
+	    font-size: 23px;
+	}
+
+	.v11_main4 .v9_main9 .text22 {
+	    margin-top: 23px;
+	    margin-bottom: 37px;
+	}
+	.v11_main4 .v9_main9 .text23 {
+	    font-size: 12px;
+	    margin-top:12px;
+	}
+	.v11_main3 .v9_main8 .text19 {
+	    margin-top: 20px;
+	    font-size: 18px;
+	}
+	.v11_main3 .text50 {
+	    margin-top: 52px;
+	    font-size: 23px;
+	}
+	.v11_main2 .block {
+	    margin-bottom: 30px;
+	}
+	.v11_main2 .block2 {
+	    margin-bottom: 50px;
+	}
+	.v11_main2 .text17 {
+	    line-height: 21px;
+	    font-size: 14px;
+	}
+	.v11_main2 .text16 {
+	    font-size: 14px;
+	}
+	.v11_main2 .text18 {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+	.v11_main2 .text15 {
+	    font-size: 22px;
+	}
+	.v11_main2 .v11_btn {
+	    width: 60%;
+	    height: 74px;
+	    font-size: 17px;
+	}
+	.v11_main1 .v10_main4 .second-line .block::after {
+	    top: 56px;
+	}
+	.v11_main1 .v10_main4 .second-line .block .border {
+	    height: 114px;
+	}
+	.v11_main1 .v10_main4 .second-line .block {
+    	height: 136px;
+	}
+	.v11_main1 .v10_main4 .text12 {
+      	font-size: 18px;
+	}
+	.v11_main1 .v10_main4 .second-line .block .border .text13 {
+	    font-size: 14px;
+	    margin-top: 18px;
+	}
+	.v11_main1 .text14 {
+	    font-size: 16px;
+	}
+	.v11_main1 .v10_main4 .second-line .block {
+	    width: 93%;
+	}
+	.v11_main1 .text7 {
+	    font-size: 15px;
+	}
+	.v11_main1 .text6 {
+	    font-size: 19px;
+	}
+	.v11_main .text1 {
+		margin-top: 0;
+	    font-size: 20px;
+	}	
+	.v11_main .text2 {
+	    font-size: 16px;
+	}
+	.v11_main .text3 {
+	    text-align: center;
+	    margin-top: 30px;
+	    font-size: 13px;
+	}
+	.v11_main .text5 {
+	    font-size: 13px;
+	}
+}

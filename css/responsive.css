@@ -1,0 +1,482 @@
+@media(max-width: 1199px){
+    #introduce .checkboxes>div:first-child{
+        width: 40%;
+    }
+    #introduce .checkboxes>div:nth-child(2){
+        width: 60%;
+    }
+    #contact label{
+        font-size: 10px;
+    }
+    .right_block_first{
+        height: 241px;
+    }
+    .right_block_first>div:first-child{
+        height: 50%;
+    }
+    .right_block_first>div:nth-child(2){
+        height: 50%;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 15px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 20px;
+    }
+    .post_name{
+        font-size: 20px;
+    }
+    .header_logo{
+        font-size: 20px;
+    }
+    .header_logo_bottom{
+        font-size: 10px;
+    }
+    .menu{
+        padding: 0;
+    }
+    .menu li:first-child{
+        margin-left: 0;
+    }
+    .block_1 .banner{
+        font-size: 15px;
+        padding-right: 15px;
+        padding-left: 350px;
+    }
+    .block_1_read{
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .big_size{
+        font-size: 25px ;
+    }
+    #bs-example-navbar-collapse-1{
+        padding-right: 0;
+    }
+    .contact{
+        margin-left: 0px;
+        width: 108px;
+    }
+    .diagnosing_content p{
+        font-size: 23px;
+        max-height: 60px;
+        min-height: 60px;
+    }
+    .diagnosin_button{
+        padding-left: 26px;
+        padding-right: 26px;
+        margin-top: 28px;
+    }
+    .footer_menu{
+        text-align: center;
+    }
+}
+@media(max-width: 991px){
+    .resources_content_block img{
+        width: 49%;
+        display: inline-block;
+        vertical-align: top;
+        margin-bottom: 50px;
+    }
+    .resources_content_block div:last-child .info_container p:last-child{
+        margin-bottom: 0;
+    }
+    .info_container{
+        width: 49%;
+        display: inline-block;
+    }
+    .info_container p:last-child{
+        margin-bottom: 50px
+    }
+    .info_container p:first-child{
+        padding-top: 0;
+    }
+    .joinmyslack_block p:first-child{
+        font-size: 30px;
+    }
+    .joinslack_request{
+        padding: 0;
+    }
+    .kk_sm{
+        font-size: 14px;
+    }
+    #introduce .checkboxes>div:first-child{
+        width: 50%;
+    }
+    #introduce .checkboxes>div:nth-child(2){
+        width: 50%;
+    }
+    .other_input{
+        width: 114px;
+    }
+    .checkboxes>div{
+        float: none;
+        width: 100%;
+    }
+    #contact label{
+        font-size: 16px;
+    }
+    .right_block_first{
+        height: 186px;
+    }
+    .right_block_first>div:first-child{
+        height: 34%;
+    }
+    .right_block_first>div:nth-child(2){
+        height: 66%;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 15px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 20px;
+    }
+    .header_logo{
+        font-size: 18px;
+    }
+    .header_logo_bottom{
+        font-size: 9px;
+    }
+    .social_links{
+        margin-left: 66px !important;
+    }
+    .block_1>div{
+        background-position: -75px;
+    }
+    .block_1 .banner{
+        font-size: 13px;
+        padding-right: 20px;
+        padding-left: 300px;
+    }
+    .block_1_read{
+        margin-top: 5px;
+    }
+    .big_size{
+        font-size: 20px ;
+    }
+    .ghost_border_text{
+        font-size: 15px;
+    }
+    .subscribtion_form p, .subscribtion_form input{
+        font-size: 15px;
+    }
+    .infoblock p:first-child{
+        font-size: 25px;
+    }
+    .infoblock p span{
+        font-size: 12px;
+    }
+    .learn_more{
+        font-size: 13px;
+    }
+    .join_group{
+        font-size: 12px;
+    }
+    .diagnosing_header{
+        font-size: 14px;
+        padding-left: 10px;
+        line-height: 50px;
+    }
+    .diagnosing_content p{
+        font-size: 16px;
+        max-height: 60px;
+        min-height: 60px;
+    }
+    .diagnosin_button{
+        padding-top: 3px;
+        padding-bottom: 3px;
+        margin-top: -5px;
+    }
+    .featured_header{
+        line-height: 60px;
+        font-size: 15px;
+        padding-left: 30px;
+    }
+    .block_ghost{
+        font-size: 15px;
+    }
+    .font_size_20{
+        font-size: 15px;
+    }
+    .bottom_menu{
+        display: none;
+    }
+    .main_content_block >div{
+        width: 100%;
+    }
+}
+@media (max-width: 767px) {
+    .resources_content_block img {
+        width: 30%;
+    }
+    .info_container{
+        width: 68%;
+    }
+    .other_input{
+        width: auto;
+    }
+    .offer_container_block, .recent_container_block{
+        display: inline-block;
+        width: 30%;
+    }
+    .offer_desc span{
+        display: block;
+        width: 100%;
+        white-space: nowrap;
+        max-height: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .contact_featured_content{
+        text-align: center;
+    }
+    #contact_popular{
+        text-align: center  ;
+    }
+    #contact label{
+        font-size: 15px;
+    }
+    .right_block_first{
+        height: 241px;
+    }
+    .right_block_first>div:first-child{
+        height: 40%;
+    }
+    .right_block_first>div:nth-child(2){
+        height: 60%;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 20px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 35px;
+    }
+    .right_block_first .free_hours_button{
+        font-size: 20px;
+    }
+    .offer_desc{
+        text-align: center;
+    }
+    .site_infomation{
+        text-align: center;
+    }
+    .site_infomation .col-sm-3>div>p:first-child, .social_search>p {
+        font-size: 23px;
+    }
+    .header_main{
+        padding-bottom: 10px;
+    }
+    .menu li{
+        text-align: center;
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .social_links{
+        display: inline-block;
+        margin: 10px auto !important;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .social_links li{
+        display: inline-block;
+    }
+    #bs-example-navbar-collapse-1{
+        text-align: center;
+    }
+    .block_1>div{
+        background-position: -45px;
+    }
+    .block_1 .banner{
+        font-size: 15px;
+        padding-right: 50px;
+        padding-left: 350px;
+    }
+    .block_1_read{
+        margin-top: 10px;
+    }
+    .big_size{
+        font-size: 35px ;
+    }
+}
+@media(max-width: 700px){
+    .other_input{
+        width: 116px;
+    }
+    .block_1 .banner{
+        padding-right: 0;
+        padding-left: 300px;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 18px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 30px;
+    }
+}
+@media(max-width: 605px){
+    #contact label{
+        font-size: 13px;
+    }
+    .block_1>div{
+        background-position: -185px;
+    }
+    .block_1 .banner{
+        padding-right: 0;
+        padding-left: 100px;
+    }
+    .free_hours_banner{
+        font-size: 20px;
+    }
+    .post_name{
+        font-size: 20px;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 15px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 25px;
+    }
+}
+@media (max-width: 550px) {
+    #introduce .checkboxes>div{
+        width: 100% !important;
+    }
+    div.joinslack_request input.request_bl{
+        font-size: 17px;
+    }
+}
+@media(max-width: 500px){
+    .joinslack_request .request_bl{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .joinmyslack_block p:first-child{
+        text-align: center;
+        height: 80px;
+        background-position: 50% 100%;
+    }
+    #contact .top_form input{
+        font-size: 15px;
+    }
+    #contact label{
+        font-size: 10px;
+    }
+    .mini_img{
+        width: 15px;
+        height: 15px;
+        background-size: 100%;
+    }
+    .contact_tabs li a{
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+}
+@media(max-width: 480px){
+    .free_hours{
+        padding-left: 10px;
+    }
+    .free_hours_img{
+        width: 22px;
+        height: 22px;
+        background-size: 100%;
+    }
+    .resources_content_block img{
+        display: block;
+        width: 60%;
+        margin: auto auto 10px;
+    }
+    .info_container{
+        width: 100%;
+        text-align: center;
+    }
+    .info_container p:last-child{
+        margin-bottom: 15px;
+    }
+    #introduce input[type="text"]{
+        font-size: 15px;
+    }
+    .free_hours_button.read_more_button{
+        margin-left: 10px;
+    }
+    .main_content_block .read_more{
+        display: block;
+        text-align: center;
+    }
+    .share_ul{
+        display: inline-block;
+        margin: 0;
+        vertical-align: middle;
+    }
+    .share_ul a{
+        margin: 0 !important;
+    }
+    .free_hours_button.read_more_button{
+        display: block;
+        margin-top: 10px;
+        line-height: 20px;
+        padding-left: 3px;
+        padding-right: 3px;
+        font-size: 18px;
+    }
+}
+@media(max-width: 435px){
+    #contact .top_form input::placeholder{
+        font-size: 18px;
+    }
+    .block_1>div{
+        background-position: -245px;
+    }
+    .block_1 .banner{
+        padding-left: 0px;
+    }
+    .post_name{
+        font-size: 18px;
+    }
+    .post_description{
+        font-size: 12px;
+    }
+
+    .site_infomation .col-sm-3>div>p:first-child, .social_search>p{
+        font-size: 20px;
+    }
+    .about_main_content_header{
+        font-size: 25px;
+    }
+}
+@media(max-width: 409px){
+    #contact label{
+        font-size: 8px;
+    }
+    .joinmyslack_block p:first-child{
+        font-size: 22px;
+    }
+}
+@media(max-width: 360px){
+    .cv_block p:first-child{
+        font-size: 36px;
+    }
+    .right_block_first>div:nth-child(2) p{
+        font-size: 13px;
+    }
+    .right_block_first>div:nth-child(2) p span{
+        font-size: 20px;
+    }
+    .right_block_first .free_hours_button{
+        font-size: 20px;
+    }
+    .right_block_first{
+        height: 203px;
+    }
+}
+@media (max-width: 337px) {
+    .small_checkbox label{
+        font-size: 12px;
+    }
+    .other_input{
+        width: 100px;
+    }
+    .free_hours .free_hours_button{
+        padding: 0;
+    }
+}

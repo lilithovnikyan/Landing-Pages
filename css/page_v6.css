@@ -1,0 +1,1400 @@
+.v6-L h1, .v6-L h2, .v6-L h3, .v6-L p {
+	margin: 0;
+	padding: 0;
+}
+label {
+    font-weight: normal;
+}
+
+.row_header4 {
+	background-image: url('../img/site/page_6/Layer-17.png'); 
+	background-color: #174713;
+}
+.v6_main1 .unit1 {
+	margin-top: 131px;
+	font-size: 78.21px;
+	font-family: Ubuntu-M;
+	color: #fff;
+	text-align: center;
+}
+.v6_main1 .unit2 {
+	margin-top: 39px;
+	font-size: 71.2px;
+	font-family: Ubuntu-L;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 161px;
+}
+.v6_main2::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 30px 29px 0 29px;
+    border-color: rgb(64, 74, 36) transparent transparent transparent;
+    left: calc(50% - 20.5px);
+}
+.v6_main2 {
+	background-color: #E8E8E8;
+}
+.v6_main2 img {
+	width: 85%;
+    transform: scale(1.5);
+}
+.v6_main2 .unit3 {
+	margin-top: 95px;
+	font-size: 33px;
+	font-family: Ubuntu-R;
+	color: #111958;
+
+}
+.v6_main2 .unit4 {
+	margin-top: 42px;
+	font-size: 22px;
+	font-family: Ubuntu-R;
+	color: #000;
+
+}
+.v6_main2 .unit5 {
+	margin-top: 62px;
+	font-size: 22px;
+	font-family: Ubuntu-R;
+	color: #000;
+	margin-bottom: 65px;
+}
+
+.v6_main3 .unit6 {
+	margin-top: 75px;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	margin-bottom: 47px;
+	text-align: center;
+}
+.v6_main3 .unit7 {
+	color: #7b7b7b;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+}
+.v6_main3 img {
+}
+.v6_main3 .unit8 {
+	margin-top: 38px;
+	font-size: 31px;
+	font-family: Ubuntu-L;
+	color: #d50055;
+}
+.v6_main3 .unit11 {
+	font-size: 31px;
+	font-family: Ubuntu-L;
+	color: #000;
+}
+.v6_main3 .cl2 {
+	text-align: center;
+}
+.v6_main3 .unit9 {
+	margin-top: 60px;
+	font-size: 18px;
+	font-family: Ubuntu-M;
+	color: #727272;
+}
+.v6_main3 .unit10 {
+	margin-top: 60px;
+	margin-bottom: 100px;
+	font-size: 18px;
+	font-family: Ubuntu-MI;
+	color: #000;
+}
+.v6_main3 .unit12 {
+	font-size: 18px;
+	font-family: Ubuntu-M;
+	color: #727272;
+}
+.v6_main3 .unit13 {
+	font-size: 18px;
+	font-family: Ubuntu-M;
+	color: #36c6a4;
+}
+.v7_main1 .unit14 {
+	font-family: Ubuntu-M;
+	color:#00363e;
+}
+.v6_main4 .background {
+	position: absolute;
+	width: 100%;
+}
+.v6_main4 .content {
+	position: relative;
+}
+.v6_main4 .left-img img {
+	width: 100%;
+}
+.v6_main4 .background img {
+	width: 100%;
+	height: 1350px;
+	background-color: #E8E8E8;
+}
+.v6_main4 .unit15 {
+	margin-top: 80px;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+	text-align: center;
+	color: #00363e;
+}
+.v6_main4 .unit16 {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	font-size: 26.67px;
+	font-family: Ubuntu-R;
+	text-align: center;
+	color: #757575;
+}
+.v6_main4 .unit17 {
+	margin-top: 50px;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+	text-align: center;
+	color: #00363e;
+}
+.v6_main4 .unit18 {
+	margin-top: 35px;
+	font-size: 30px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	color: #000;
+}
+.v6_main4 .unit20 {
+	font-size: 30px;
+	font-family: Ubuntu-M;
+	color: #e16502;
+}
+.v6_main4 .unit19 {
+	margin-top: 22px;
+	margin-bottom: 20px;
+	font-size: 30px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	color: #d50055;
+}
+.v6_main5 {
+	margin-top: 60px;
+	background-color: #00363E;
+}
+.v6_main5 .unit21 {
+	margin-top: 50px;
+	font-size: 38px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	color: #fff;
+}
+.v6_main5 .unit22 {
+	margin-top: 50px;
+	font-size: 25.93px;
+	margin-bottom: 40px;
+	font-family: Ubuntu-L;
+	text-align: center;
+	color: #fff;
+}
+
+.v6_main4 .v7_main2 {
+    padding-bottom: 0;
+    min-height: 0;
+    background-color: inherit;
+}
+.v6_main4 .v7_main2::before {
+	display: none;
+}
+.v6_main6 {
+	background-color: #E8E8E8;
+}
+.v6_main6  .v8_main4 {
+	background-color: #E8E8E8;
+}
+.v6_main6 .v11_main9 {
+	min-height: 1440px;
+	background-color: #E8E8E8;
+}
+.v6_main6  .unit23 {
+	margin-top: 48px;
+	font-size: 36.35px;
+	font-family: Ubuntu-M;
+	text-align: center;
+	color: #f30072;
+}
+.v6_main6  .unit24 {
+	margin-top: 30px;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+	text-align: center;
+	color: #00363e;
+}
+.v6_main6  .unit25 {
+	margin-top: 60px;
+	margin-bottom: 70px;
+	font-size: 33.57px;
+	font-family: Ubuntu-R;
+	text-align: center;
+	color: #000;
+}
+.v6_main6  .unit26 {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	font-size: 33.57px;
+	font-family: Ubuntu-R;
+	color: #d50055;
+}
+.v6_main6  .unit28 {
+	margin-bottom: 60px;
+	font-size: 27.77px;
+	font-family: Ubuntu-M;
+	color: #000;
+}
+.v6_main6  .unit29{
+	margin-top: 80px;
+	font-size: 48px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main6  .unit30{
+	font-size: 56px;
+	margin-bottom: 50px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main6  .unit27 {
+	font-size: 26.57px;
+	font-family: Ubuntu-R;
+	color: #000;
+}
+.v6_main6 .cl2 {
+	text-align: center;
+}
+.v6_main6  .unit24 img {
+	 margin-top: -11px;
+}    
+.v6_main6 .v7_main2::before {  
+	display: none;
+}
+.v6_main6 .v7_main2 {
+    padding-bottom: 0;
+    min-height: 0;
+}
+.v6_main7 {
+	background-color: #00363E;
+}
+.v6_main7 .unit40 {
+	font-size: 38.1px;
+	margin-top: 85px;
+	margin-bottom: 65px;
+	font-family: Ubuntu-M;
+	color: #fff;
+}
+.v6_main7 button {
+	width: 558px;
+	font-size:29.01px; 
+	margin-bottom: 78px;
+	height: 130px;
+	border:none;
+	background-color: #36C6A4;
+	font-family: Ubuntu-B;
+	color: #fff;
+	
+}
+
+.v6_main7 .cl2 {
+	padding-top: 50px;
+	text-align: center;
+}
+.v6_main8  {
+	background-color: #C8DBDB;
+}
+.v6_main8 .lv1_block_block7 {
+	height: inherit;
+	background-color: #C8DBDB;
+}
+.v6_main8 .lv1_block_block7 img {
+	width: 100%;
+	margin-top: 0;
+	position: absolute;
+} 
+.v6_main8 .lv1_hint_block {
+    box-shadow: 0px 17px 37px rgba(136, 136, 136, 0.35);
+}
+.v6_main8 .my-block  {
+	top: 0;
+	position: relative;
+}
+.v6_main8 .center {
+	margin-top: 40px;
+	text-align: center;
+}
+.v6_main8 .unit41 {
+	font-size:48px;
+	margin-top: 90px;
+	margin-bottom: 58px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main8 .unit42 {
+	font-size:30px;
+	margin-top: 50px;
+	margin-bottom: 58px;
+	font-family: Ubuntu-R;
+	color: #000;
+}
+.v6_main8 .unit43 {
+	font-size:18px;
+	margin-top: 58px;
+	margin-bottom: 120px;
+	font-family: Ubuntu-RI;
+	color: #3a3a3a;
+}
+.v6_main8 .unit44 {
+	font-family: Ubuntu-MI;
+	color: #00363e;
+}
+.v6_main9 {
+	background-color: #FFA054;
+}
+.v6_main9 .unit45 {
+	font-size:44px;
+	margin-top: 55px;
+	margin-bottom: 55px;
+	font-family: Ubuntu-M;
+	color: #fff;
+	text-align: center;
+}
+.v6_main10 {
+	background-color: #fff;
+}
+.v6_main10 .lv1_block_info{
+	background-color: #fff;
+}
+.v6_main10 .cl5 {
+	text-align: center;
+}
+.v6_main10 .unit46 {
+	font-size:48px;
+	margin-top: 70px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main10 .unit47 {
+	font-size:48px;
+	margin-top: 48px;
+	font-family: Ubuntu-B;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main10  .my-text {
+	margin-top: 98px;
+	margin-bottom: 52px;
+}
+.v6_main11  {
+	background-color: #E8E8E8;
+}
+
+.v6_main11  .lv1_block_block12{
+	background-color: #E8E8E8;
+}
+.v6_main11 .unit48 {
+	font-size:48px;
+	margin-top: 60px;
+	margin-bottom: 110px;
+	font-family: Ubuntu-M;
+	color: #00363e;
+	text-align: center;
+}
+.v6_main9_1 {
+	background-color: #fff;
+}
+.v6_main9_1 .this img {
+	width:  100%;
+	height: 630px;
+}
+.v6_main9_1 .unit50 {
+	font-size:38.91px;
+	margin-top: 118px;
+	font-family: Ubuntu-L;
+	color: #00363e;
+}
+.v6_main9_1 .unit51 {
+	font-family: Ubuntu-LI;
+}
+.v6_main9_1 .cl1 {
+	position: relative;
+	padding:0;
+
+}
+.v6_main9_1 .block {
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 0;
+}
+.v6_main9_1 .line {
+	margin:0 auto;
+	width: 300px;
+	height: 90px;
+	border-bottom: 1px solid #F9BA87;
+	font-size: 43.53px;
+	margin-top: 100px;
+	padding: 20px;
+	font-family: Ubuntu-B;
+	color: #00363e;	
+}
+.v6_main9_1 .line2 {
+	font-size: 20.8px;
+	margin-top: 25px;
+	font-family: Ubuntu-R;
+	color:  #595959;	
+}
+.v6_main9_1 .line4 {
+	font-size: 25.8px;
+	margin-top: 50px;
+	font-family: Ubuntu-R;
+	color:  #DB6D15;	
+}
+.v6_main9_1 .line5 {
+	font-size:13px;
+	margin-top: 10px;
+	font-family: Ubuntu-I;
+	color:  #4b4b4b;	
+}
+.v6_main9_1 .line3 {
+	font-family: Ubuntu-R;
+	color:#000;	
+}
+.v6_main9_1 .hello {
+	margin-left: 50px;
+}
+.v6_main9_1 .unit52 {
+	font-size:25.94px;
+	margin-top: 80px;
+	font-family: Ubuntu-L;
+	color: #717171;
+	margin-bottom: 185px;
+}
+.v6_main9_1 .unit53 {
+	
+	font-family: Ubuntu-B;
+	color: #ffa054;
+}
+.v6_main9_1 button {
+	width: 400px;
+	font-size:21.13px; 
+	height: 90px;
+	border:none;
+	background-color: #36C6A4;
+	font-family: Ubuntu-M;
+	color: #fff;
+	
+}
+.v6_main9_2 {
+	background-color: #005469;
+	height: 750px;
+}
+.v6_main9_2 img {
+}
+.v6_main9_2 .cl2{
+    height: 750px;
+    background: url(../img/site/page_6/v6_man.png) no-repeat 50% 0%;;
+}
+.v6_main9_2 .cl1 {
+	background-image:  url('../img/site/page_6/v6_back3.png');  
+
+}
+.v6_main9_2 .unit61 {
+	padding-left: 70px;
+	margin-top: 50px;
+	font-size:45.78px;
+	color: #fff;
+	font-family: Ubuntu-M;
+}
+.v6_main9_2 .unit62 {
+	padding-left: 70px;
+	margin-top: 54px;
+	font-size:17.17px;
+	color: #fff;
+	font-family: Ubuntu-M;
+}
+.v6_main9_2 .unit63 {
+	padding-left: 70px;
+	margin-top: 42px;
+	font-size:34.34px;
+	color: #fff;
+	font-family: Ubuntu-L;
+}
+.v6_main9_2 .unit64 {
+	padding-left: 70px;
+	margin-top: 55px;
+	font-size:17.17px;
+	color: #d2d2d2;
+	font-family: Ubuntu-M;
+}
+.v6_main9_2 .unit65 {
+	padding-left: 70px;
+	margin-top: 68px;
+	font-size:28.61px;
+	color: #fff;
+	font-family: Ubuntu-L;
+}
+.v6_main9_2 .unit66 {
+	padding-left: 70px;
+	margin-top: 35px;
+	font-size:17.17px;
+	color: #d2d2d2;
+	font-family: Ubuntu-M;
+}
+.v6_main9_2 .ather {
+
+	font-size:17.17px;
+	color: #36c6a4;
+	font-family: Ubuntu-B;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 1190px) {
+	.v6_main9_2 .unit63 {
+	    padding-left: 70px;
+	    margin-top: 29px;
+	    font-size: 32px;
+	}
+	.v6_main9_2 .unit65 {
+	    padding-left: 70px;
+	    margin-top: 39px;
+	    font-size: 26px;
+	}
+	.v6_main9_2 .unit61 {
+	    padding-left: 70px;
+	    margin-top: 30px;
+	    font-size: 34px;
+	}
+	.v6_main9_1 .unit50 {
+    	font-size: 33px;
+	}
+	.v6_main9_1 .unit52 {
+    	font-size: 23px;
+	}
+	.v6_main10 .my-text {
+    	margin-top: 71px;
+	}
+	.v6_main10 .unit46 {
+	    font-size: 39px;
+	}
+	.v6_main10 .unit47 {
+	    font-size: 39px;
+	}
+	.v6_main9 .unit45 {
+	    font-size: 36px;
+	}
+	.v6_main8 .center {
+    	margin-top: 68px;
+	}
+	.v6_main8 .my-block {
+		top: 35px;
+	}
+	.v6_main8 .lv1_block_block7 img {
+		height: 85px;
+		margin-top: 9px;
+	}
+	.v6_main7 .cl2 img {
+		width: 100%;
+	}
+	.v6_main7 button {
+	    width: 68%;
+	    font-size: 29.01px;
+	    margin-bottom: 61px;
+	    height: 89px;
+	}
+	.v6_main7 .unit40 {
+    	font-size: 31px;
+	}
+	.v6_main4 .background img {
+	    height: 1236px;
+	}
+	.v6_main4 .unit17 {
+	    font-size: 43px;
+	}
+	.v6_main4 .unit18 {
+	    font-size: 26px;
+	}
+	.v6_main4 .unit20 {
+	    font-size: 26px;
+	}
+	.v6_main4 .unit19 {
+	    font-size: 25px;
+	}
+	.v6_main4 .unit16 {
+	    margin-top: 21px;
+	    margin-bottom: 49px;
+	    font-size: 25px;
+	}
+	.v6_main4 .unit15 {
+	    margin-top: 37px;
+	    font-size: 44px;
+	}
+	.v6_main3 .unit8 {
+    	margin-top: 9px;
+	}
+	.v6_main3 .unit9 {
+    	margin-top: 37px;
+	}
+	.v6_main3 .unit10 {
+	    margin-top: 38px;
+	    margin-bottom: 40px;
+	}
+	.v6_main3 .unit6 {
+		font-size: 40px;
+	}
+	.v6_main3 .unit7 {
+		font-size: 40px;
+	}
+	.v6_main2 img {
+    	width: 83%;
+    	transform: scale(1.4);
+    }
+	.v6_main2 .unit5 {
+	    margin-top: 51px;
+	    font-size: 19px;
+	    margin-bottom: 41px;
+	}
+	.v6_main2 .unit4 {
+	    margin-top: 35px;
+	    font-size: 20px;
+	}
+	.v6_main2 .unit3 {
+	    margin-top: 52px;
+	    font-size: 28px;
+	}
+	.v6_main1 .unit1 {
+    	margin-top: 51px;
+    	font-size: 62px;
+	}
+	.v6_main1 .unit2 {
+	    margin-top: 35px;
+	    font-size: 51px;
+	    margin-bottom: 55px;
+	}
+}
+@media(max-width: 1025px) {
+	.v6_main9_1 .this img {
+		width:  100%;
+		height: 660px;
+	}	
+}
+
+@media(max-width: 992px) {
+	.v6_main9_2 .cl2 {
+	    height: 600px;
+	}
+	.v6_main9_2 {
+	    height: 600px;
+	}
+	.v6_main9_2 .unit66 {
+	    padding-left: 30px;
+	    margin-top: 38px;
+	    font-size: 15px;
+	}
+	.v6_main9_2 .unit64 {
+	    padding-left: 30px;
+	    margin-top: 36px;
+	    font-size: 15px;
+	}
+	.v6_main9_2 .unit62 {
+	    padding-left: 30px;
+	    margin-top: 40px;
+	    font-size: 15px;
+	}
+	.v6_main9_2 .unit63 {
+	    padding-left: 30px;
+	    margin-top: 25px;
+	    font-size: 30px;
+	}
+	.v6_main9_2 .unit65 {
+	    padding-left: 30px;
+	    margin-top: 30px;
+	    font-size: 23px;
+	}
+	.v6_main9_2 .unit61 {
+	    padding-left: 30px;
+	    margin-top: 20px;
+	    font-size: 29px;
+	}
+	.v6_main9_1 .line2 {
+	    font-size: 18px;
+	}
+	.v6_main9_1 .line {
+		padding-top: 35px;
+    	font-size: 40px;
+	}
+	.v6_main9_1 button {
+	    width: 300px;
+	    font-size: 17px;
+	    height: 63px;
+	}
+	.v6_main9_1 .unit50 {
+    	font-size: 23px;
+	}
+	.v6_main9_1 .unit52 {
+    	font-size: 18px;
+	}
+	.v6_main11 .unit48 {
+	    font-size: 40px;
+	    margin-top: 51px;
+	    margin-bottom: 69px;
+	}
+	.v6_main10 .my-text {
+    	margin-top: 60px;
+    	font-size: 30px;
+	}
+	.v6_main10  .lv1_block_info img {
+	    width: 35%;
+	}
+	.v6_main10 .unit46 {
+	    font-size: 33px;
+	}
+	.v6_main9 .unit45 {
+	    font-size: 28px;
+	}
+	.v6_main8 .lv1_block_block7 img {
+	    margin-top: 0;
+	}
+	.v6_main8 .font_size_18 {
+	    font-size: 16px;
+	}
+	.v6_main8 .my-block {
+    	top: 23px;
+	}
+	.v6_main8 .unit41 {
+	    font-size: 42px;
+	    margin-top: 50px;
+	    margin-bottom: 26px;
+	}
+	.v6_main8 .unit42 {
+    	font-size: 25px; 
+	}
+	.v6_main7 button {
+	    width: 68%;
+	    font-size: 23px;
+	    margin-bottom: 44px;
+	    height: 65px;
+	}
+	.v6_main7 .unit40 {
+	    font-size: 23px;
+	}
+	.v6_main6 .v11_main9 {
+		min-height: 1255px;
+		background-color: #E8E8E8;
+	}
+	.v6_main6 .unit28 {
+		padding-top: 64px;
+		font-size: 19px;
+	}
+	.v6_main6 .unit30 {
+	    font-size: 40px;
+	    margin-bottom: 0;
+	}
+	.v6_main6 .unit29 {
+	    margin-top: 60px;
+	    font-size: 40px;
+	}
+	.v6_main6 .unit27 {
+    	font-size: 20px;
+	}
+	.v6_main6 .unit26 {
+		font-size: 25px;
+	}
+	.v6_main6 .unit25 {
+	    margin-top: 43px;
+	    margin-bottom: 55px;
+	    font-size: 26px;
+	}
+	.v6_main6 .unit24 {
+	    font-size: 40px;
+	}
+	.v6_main5 .unit22 {
+	    margin-top: 38px;
+	    font-size: 23px;
+	}
+	.v6_main4 .background img {
+	    height: 1205px;
+	}
+	.v6_main4 .unit17 {
+	    font-size: 39px;
+	}
+	.v6_main4 .unit18 {
+	    font-size: 23px;
+	}
+	.v6_main4 .unit20 {
+	    font-size: 23px;
+	}
+	.v6_main5 .unit21 {
+	    font-size: 24px;
+	}
+	.v6_main4 .unit19 {
+	    font-size: 25px;
+	}
+	.v6_main3 .img {
+		width: 90%;
+	}
+	.v6_main3 .unit6 {
+		font-size: 35px;
+	}
+	.v6_main3 .unit7 {
+		font-size: 35px;
+	}
+	.v6_main3 .unit8 {
+    	font-size: 25px;
+	}
+	.v6_main3 .unit11 {
+    	font-size: 25px;
+	}
+	.v6_main2 .unit5 {
+	    margin-top: 40px;
+	    font-size: 18px;
+	    margin-bottom: 30px;
+	}
+	.v6_main2 .unit4 {
+	    margin-top: 30px;
+	    font-size: 18px;
+	}
+	.v6_main2 .unit3 {
+	    margin-top: 50px;
+	    font-size: 21px;
+	}
+	.v6_main1 .unit1 {
+    	margin-top: 28px;
+    	font-size: 47px;
+	}
+	.v6_main1 .unit2 {
+	    font-size: 45px;
+	}
+}
+@media(max-width: 805px) {
+	.v6_main6 .cl2 img {
+		width: 100%;
+	}
+}
+
+@media(max-width: 767px) {
+	.v6_main9_2 {
+	    height: 1185px;
+	}
+	.v6_main9_1 .line {
+	   margin-top: 10px;
+	}
+	.v6_main9_1 .this img {
+	    width: 100%;
+	    height: 427px;
+	}
+	.v6_main9_1 .block {
+		background-color: #EDEDED;
+	}
+	.v6_main9_1 .unit50 {
+	   margin-top: 50px;
+	}
+	.v6_main9_1 .unit52 {
+	   margin-bottom: 20px;
+	   margin-top: 40px;
+	}
+	.v6_main9_1 .hello {
+	    margin-left: 0;
+	    text-align: center;
+	}
+	.v6_main10 .my-text {
+    	margin-top: 40px;
+    	font-size: 25px;
+	}
+	.v6_main10 .dn {
+	    display: block;
+	}
+	.v6_main10 .unit46 {
+	    font-size: 25px;
+	}
+	.v6_main10  .font_size_30 {
+	    font-size: 25px;
+	}
+	.v6_main9 .unit45 {
+	    font-size: 25px;
+	}
+	.v6_main8 .lv1_block_block7 img {
+	    margin-top: 7px;
+	}
+	.v6_main8 .center {
+    	margin-top: 88px;
+	}
+	.v6_main8 .my-block {
+    	top: 36px;
+	}
+	.v6_main8 .lv1_hint_block {
+		margin: 0 auto;
+    	height: 392px;
+	    width: 100%;
+	    margin-bottom: 50px;
+	}
+	.v6_main8 .unit42 {
+	    font-size: 25px;
+	    text-align: center;
+	}
+	.v6_main8 .unit43 {
+	    text-align: center;
+	    margin-bottom: 0;
+	}
+	.v6_main7 button {
+		margin-bottom: 0;
+	}
+	.v6_main7 .cl2 img {
+	    width: 35%;
+	}
+	.v6_main7 .cl1 {
+		text-align: center;
+	}
+	.v6_main6 .v11_main9 {
+    	min-height: 1124px;
+	}
+	.v6_main6 .v11_main9 .text57 {
+		text-align: center;
+	}
+	.v6_main6 .v11_main9 .text59 {
+		text-align: center;
+	}
+	.v6_main6 .cl3 {
+		text-align: center;
+	}
+	.v6_main6 .unit28 {
+	    padding-top: 59px;
+	    font-size: 19px;
+	    text-align: center;
+	}
+	.v6_main6 .unit30 {
+    	font-size: 31px;
+	}
+	.v6_main6 .unit29 {
+	    margin-top: 44px;
+	    font-size: 32px;
+	}
+	.v6_main6 .v7_main2 {
+		min-height: 0;
+	    padding-bottom: 26px;
+	    background-color: #E8E8E8;
+	}
+	.v6_main6 .cl2 img {
+	    width: 50%;
+	}
+	.v6_main6 .unit26 {
+	    text-align: center;
+	}
+	.v6_main6 .unit27 {
+	    text-align: center;
+	}
+	.v6_main4 .unit17 {
+	    font-size: 30px;
+	}
+	.v6_main4 .unit18 {
+	    font-size: 23px;
+	}
+	.v6_main4 .unit19 {
+	    font-size: 19px;
+	}
+	.v6_main4 .background img {
+	    height: 1440px;
+	}
+	.v6_main4 .left-img {
+		 text-align: center;
+	}
+	.v6_main4 .left-img  img {
+	   width: 35%;
+	  
+	}
+	.v6_main3 img {
+	    width: 35%;
+	}
+	.v6_main3 .unit8 {
+	    font-size: 19px;
+	}
+	.v6_main3 .unit11 {
+	    font-size: 19px;
+	}
+	.v6_main3 .unit6 {
+		margin-top: 40px;
+		font-size: 30px;
+	}
+	.v6_main3 .unit7 {
+		font-size: 30px;
+	}
+	.v6_main3 .cl1 {
+    	text-align: center;
+	}
+	.v6_main2  .cl1 {
+		text-align: center;
+	}
+	.v6_main2 img {
+    	width: 50%;
+    	transform: scale(1.4);
+    }
+	.v6_main2 .unit5 {
+	    margin-top: 40px;
+	    font-size: 20px;
+	    margin-bottom: 30px;
+	}
+	.v6_main2 .unit4 {
+	    margin-top: 30px;
+	    font-size: 21px;
+	}
+	.v6_main2 .unit3 {
+	    margin-top: 50px;
+	    font-size: 26px;
+	}
+	.v6_main1 .unit1 {
+    	margin-top: 28px;
+    	font-size: 42px;
+	}
+	.v6_main1 .unit2 {
+	    margin-top: 30px;
+	    font-size: 36px;
+	    margin-bottom: 45px;
+	}
+}
+@media(max-width: 600px) {
+	.v6_main11 .unit48 {
+	    font-size: 26px;
+	}
+	.v6_main10 .my-text {
+    	margin-top: 20px;
+    	font-size: 22px;
+	}
+	.v6_main10 .dn {
+	    display: block;
+	}
+	.v6_main10 .unit46 {
+	    font-size: 25px;
+	}
+	.v6_main10 .unit47 {
+	    font-size: 25px;
+	}
+	.v6_main10  .font_size_30 {
+	    font-size: 22px;
+	}
+	.v6_main8 .my-block {
+	    top: 25px;
+	}
+	.v6_main8 .unit42 {
+		margin-bottom: 30px;
+	    font-size: 19px;
+	    margin-top: 30px;
+	}
+	.v6_main8 .unit41 {
+	    font-size: 35px;
+	    margin-top: 50px;
+	    margin-bottom: 0;
+	}
+
+	.v6_main7 .unit40 {
+	    font-size: 38.1px;
+	    margin-top: 50px;
+	    margin-bottom: 40px;
+	}
+	.v6_main7 button {
+	    width: 100%;
+	    font-size: 19px;
+	    margin-bottom: 0;
+	    height: 65px;
+	}
+	.v6_main7 .unit40 {
+	    font-size: 18px;
+	}
+	.v6_main6 .v11_main9 {
+	    min-height: 981px;
+	}
+	.v6_main6 .unit28 {
+	    padding-top: 40px;
+	    font-size: 18px;
+	}
+	.v6_main6 .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+    	width: 95%;
+	}
+	.v6_main6  .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 10px;
+	}
+	.v6_main6 .unit29 {
+	    margin-top: 40px;
+	    font-size: 26px;
+	}
+	.v6_main6 .unit25 {
+	    margin-top: 30px;
+	    margin-bottom: 30px;
+	    font-size: 20px;
+	}
+	.v6_main6 .unit24 {
+	    font-size: 30px;
+	}
+	.v6_main6 .unit23 {
+	    margin-top: 28px;
+	    font-size: 30px;
+	}
+	.v6_main5 .unit22 {
+	    margin-top: 33px;
+	    font-size: 19px;
+	}
+	.v6_main5 .unit21 {
+	    font-size: 20px;
+	}
+	.v6_main4 .background img {
+	    height: 1300px;
+	}
+	.v6_main4 .unit18 {
+	    font-size: 20px;
+	}
+	.v6_main4 .unit20 {
+	    font-size: 20px;
+	}
+	.v6_main4 .unit17 {
+	    font-size: 24px;
+	}
+	.v6_main4 .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+    	width: 95%;
+	}
+	.v6_main4  .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 10px;
+	}
+	.v6_main4 .unit16 {
+	    margin-top: 20px;
+	    margin-bottom: 24px;
+	    font-size: 17px;
+	}
+	.v6_main4 .unit15 {
+	    margin-top: 30px;
+	    font-size: 25px;
+	}
+	.v6_main3 .unit8 {
+	    margin-top: 0;
+	}
+	.v6_main3 .unit6 {
+		margin-top: 30px;
+		font-size: 20px;
+	}
+	.v6_main3 .unit7 {
+		font-size: 20px;
+	}
+	.v6_main2 .unit5 {
+	    margin-top: 40px;
+	    font-size: 19px;
+	    margin-bottom: 30px;
+	}
+	.v6_main2 .unit4 {
+	    margin-top: 30px;
+	    font-size: 18px;
+	}
+	.v6_main2 .unit3 {
+	    margin-top: 50px;
+	    font-size: 20px;
+	}
+	.v6_main1 .unit1 {
+    	margin-top: 15px;
+    	font-size: 25px;
+	}
+	.v6_main1 .unit2 {
+	    margin-top: 25px;
+	    font-size: 26px;
+	    margin-bottom: 30px;
+	}
+}
+@media(max-width: 500px) {
+	.v6_main4 .background img {
+	    height: 1275px;
+	}
+}
+@media(max-width: 400px) {
+	.v6_main9_2 .unit62 {
+	    padding-left: 30px;
+	    margin-top: 24px;
+	    font-size: 15px;
+	}
+	.v6_main9_2 .unit65 {
+	    padding-left: 30px;
+	    margin-top: 25px;
+	    font-size: 20px;
+	}
+	.v6_main9_2 .unit63 {
+	    padding-left: 30px;
+	    margin-top: 19px;
+	    font-size: 25px;
+	}
+	.v6_main9_2 .unit61 {
+	    font-size: 25px;
+	}
+	.v6_main9_1 button {
+    	width: 275px;
+	}
+	.v6_main9_1 .line2 {
+	    font-size: 15px;
+	}
+	.v6_main9_1 .line {
+	    padding-top: 35px;
+	    font-size: 33px;
+	}
+	.v6_main9_1 .unit50 {
+	    font-size: 18px;
+	}
+	.v6_main9_1 .unit52 {
+	    font-size: 17px;
+	}
+	.v6_main11 .unit48 {
+	    font-size: 19px;
+	    margin-top: 20px;
+	    margin-bottom: 30px;
+	}
+	.v6_main9 .unit45 {
+	    font-size: 20px;
+	}
+	.v6_main8 .center {
+	    margin-top: 66px;
+	}
+	.v6_main8 .unit42 {
+		margin-bottom: 30px;
+	    font-size: 17px;
+	    margin-top: 30px;
+	}
+	.v6_main8 .unit43 {
+	    font-size: 17px;
+	}
+	.v6_main8 .unit41 {
+	    font-size: 28px;
+	    margin-top: 50px;
+	    margin-bottom: 0;
+	}
+	.v6_main7 button {
+	    width: 100%;
+	    font-size: 16px;
+	    margin-bottom: 0;
+	    height: 50px;
+	}
+	.v6_main7 .unit40 {
+	    font-size: 15px;
+	}
+	.v6_main6 .unit28 {
+	    padding-top: 40px;
+	    font-size: 17px;
+	    margin-bottom: 30px;
+	}
+	.v6_main6 .unit30 {
+	    font-size: 26px;
+	}
+	.v6_main6 .unit29 {
+	    margin-top: 40px;
+	    font-size: 22px;
+	}
+	.v6_main6 .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    font-size: 13.6px;
+	}
+	.v6_main6 .unit24 {
+	    font-size: 27px;
+	}
+	.v6_main4 .background img {
+	    height: 1200px;
+	}
+	.v6_main4 .unit18 {
+	    font-size: 16px;
+	}
+	.v6_main4 .unit20 {
+	    font-size: 16px;
+	}
+	.v6_main4 .unit17 {
+	    font-size: 18px;
+	}
+	.v6_main4 .unit19 {
+	    font-size: 15px;
+	}
+	.v6_main4  .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+    	font-size: 14px;
+	}
+	.v6_main4 .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+    	width: 100%;
+	}
+	.v6_main4  .v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 0;
+	}
+	.v6_main3 .unit10 {
+	    margin-top: 26px;
+	    margin-bottom: 35px
+	    font-size:16px;	}
+	.v6_main3 .unit8 {
+	    margin-top: 0;
+	    font-size: 16px;
+	}
+	.v6_main3 .unit9 {
+	    margin-top: 25px;
+	    font-size: 16px;
+	}
+	.v6_main3 .unit6 {
+		margin-top: 30px;
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.v6_main3 .unit7 {
+		font-size: 15px;
+	}
+	.v6_main2::before {
+		border-width: 20px 20px 0 20px;
+	}
+	.v6_main2 .unit5 {
+	    margin-top: 30px;
+	    font-size: 17px;
+	    margin-bottom: 20px;
+	}
+	.v6_main2 .unit4 {
+	    margin-top: 20px;
+	    font-size: 17px;
+	}
+	.v6_main2 .unit3 {
+	    margin-top: 50px;
+	    font-size: 17px;
+	}
+	.v6_main1 .unit1 {
+    	margin-top: 15px;
+    	font-size: 18px;
+	}
+	.v6_main1 .unit2 {
+	    margin-top: 20px;
+	    font-size: 18px;
+	    margin-bottom: 20px;
+	}
+}
+@media(max-width: 350px) {
+	.v6_main4 .background img {
+	    height: 1250px;
+	}
+}
+
+

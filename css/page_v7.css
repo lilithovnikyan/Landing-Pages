@@ -1,0 +1,590 @@
+.v7-L h1, .v7-L h2, .v7-L h3, .v7-L p {
+	margin: 0;
+	padding: 0;
+}
+label {
+    font-weight: normal;
+}
+
+.row_header3 {
+	background-image: url('../img/site/page_7/v7_back.png'); 
+	background-color: #3C4143;
+}
+
+.v7_main .point1 {
+	font-size: 55.64px;
+	margin-top: 52px;
+	text-align: center;
+	color: #fff;
+	font-family: Ubuntu-M;
+}
+.v7_main .point2 {
+	font-size: 45.25px;
+	margin-top: 20px;
+	text-align: center;
+	color: #fff;
+	font-family: Ubuntu-L;
+}
+.v7_main .point3 {
+	font-size: 20.97px;
+	margin-top: 24px;
+	text-align: center;
+	color: #ffaa67;
+	font-family: Ubuntu-M;
+}
+.v7_main .point4 {
+	font-size: 20.97px;
+	margin-top: 16px;
+	margin-bottom: 58px;
+	text-align: center;
+	color: #fff;
+	font-family: Ubuntu-R;
+}
+.v7_main .point5 {
+	font-size: 19.45px;
+	margin-top: 55px;
+	margin-bottom: 56px;
+	text-align: center;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v7_main .point6 {
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+
+.v7_main .point7 {
+	font-size: 16.12px;
+	margin-bottom: 5px;
+	color: #dcdcdc;
+	font-family: Ubuntu-L;
+}
+.v7_main .point8 {
+	color: #dcdcdc;
+	font-family: Ubuntu-L;
+}
+.v7_main .point9 {
+	color: #dcdcdc;
+	font-family: Ubuntu-B;
+}
+.v7_main label {
+	padding-top: 0 ! important;
+	width: 100%;
+	background-color: rgba(158, 158, 158, 0.17);
+}
+.v7_main .v11_main1 {
+	padding-top: 0;
+	background-color: transparent;
+}
+.v7_main .v11_main1 .v10_main4 {
+	padding-top: 0;
+	background-color: transparent;
+}
+.v7_main .v11_main1 .v10_main4 .second-line {
+    margin-top: 0;
+}
+.v7_main .v11_main1 .v10_main4 .second-line .block { 
+	margin-top: 60px;
+}
+.v7_main1 {
+	background-color: #FFA054;
+}
+.v7_main1 .v10_main5 .v9_main2 .text7 {
+    font-size: 45.7px;
+}
+.v7_main2::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    position: absolute;
+    border-style: solid;
+    border-width: 70px 0 0 76px;
+    border-color: #FFA054 transparent transparent transparent;
+    left: calc(50% - 37px);
+    margin-top: -46px;
+}
+.v7_main2 {
+	padding-bottom: 90px;
+	min-height: 930px;
+	background-color: #E8E8E8;
+}
+.v7_main2 .point10 {
+	font-size: 48px;
+	margin-top: 90px;
+	color: #00363e;
+	text-align: center;
+	font-family: Ubuntu-M;
+}
+.v7_main2 .point11 {
+	font-size: 33.57px;
+	margin-bottom: 30px;
+	margin-top: 50px;
+	text-align: center;
+	color: #00363e;
+	font-family: Ubuntu-R;
+}
+.v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	font-size: 18px;
+	color: #000;
+	line-height: 24px;
+	padding-top: 0;
+	font-family: Ubuntu-R;
+}
+.v7_main2 .point12 {
+	font-size: 24px;
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+
+.v7_main3 .my-img {
+	height: 940px;
+	width: 100%;
+	margin-top:-137px;
+	position: absolute;
+}
+.v7_main3 {
+	margin-bottom: 75px;
+}
+.v7_main3  .child-block {
+	position: relative;
+}
+.v7_main3 .point13 {
+	font-size: 48px;
+	margin-top: 50px;
+	text-align: center;
+	color: #00363e;
+	font-family: Ubuntu-M;
+}
+.v7_main3 .point14 {
+	font-size: 28.43px;
+	margin-top: 40px;
+	margin-bottom: 88px;
+	text-align: center;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v7_main3 .point15 {
+	font-size: 34.3px;
+	margin-top: 48px;
+	text-align: center;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v7_main3 .point16 {
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+.v7_main3 .point17 {
+	font-size: 18px;
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+.v7_main3 .point19 {
+	font-size: 18px;
+	color: #000;
+	font-family: Ubuntu-M;
+}
+.v7_main3 .point18 {
+	font-size: 18px;
+	color: #000;
+	font-family: Ubuntu-R;
+}
+.v7_main3 .ong_block {
+	width: 100%;
+	margin-top: 30px;
+	height: 160px;
+	border: 1px solid #FFA054;
+	padding-top: 18px;
+}
+.v7_main3 .point20 {
+	font-size: 18px;
+	margin-top: 8px;
+	line-height: 30px;
+	text-align: center;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v7_main4 .point22 {
+	color: #34585e;
+	font-family: Ubuntu-M;
+	
+}
+.v7_main4 {
+	background-color:  #D5E0E0;
+}
+.v7_main4 .v11_main8 .v8_main5 {
+	background-color: #D5E0E0;
+}
+.v7_main4 .v11_main8::before {
+	display: none;
+}
+.v7_main4 .v8_main5 {
+	padding-top: 0;
+}
+.v7_main4 .point22 {
+	margin-bottom: 67px;
+	margin-top: 67px;
+	font-size: 61.97px;
+	text-align: center;
+	font-family: Ubuntu-M;
+	color: #00363e;
+}
+.v9_main13 .v9_main2 .point23 {
+	margin-bottom: 40px;
+	margin-top: 43px;
+	font-size: 45.7px;
+	text-align: center;
+	font-family: Ubuntu-M;
+	color: #fff;
+}
+.v7_main5::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 30px 29px 0 29px;
+    border-color: #00363E transparent transparent transparent;
+    left: calc(50% - 26.5px);
+}
+@media(max-width: 1190px) {
+	.v7_main3 .my-img {
+    	height: 840px;
+	}
+	.v7_main3 .point15 {
+    	font-size: 27px;
+	}
+	.v7_main3 .point20 {
+    	font-size: 16px;
+	}
+	.v7_main3 .point14 {
+		margin-bottom: 60px;
+	}
+	.v7_main3 .point13 {
+		margin-top: 0;
+	}
+	.v7_main2 .point12 {
+		line-height: 50px;
+	}
+	.v7_main1 .v10_main5 .v9_main2 .text7 {
+	    font-size: 39px;
+	}
+	.v7_main .point1 {
+   		font-size: 45px;
+    	margin-top: 38px;
+	}
+	.v7_main .point2 {
+   		font-size: 40px;
+	}
+	.v7_main .point3 {
+   		font-size: 19px;
+	}
+	.v7_main .point4 {
+   		font-size: 16px;
+	}
+	.v7_main .point5 {
+		margin-top: 35px;
+   		font-size: 18px;
+	}
+	.v7_main .v11_main1 .v10_main4 .second-line .block {
+	    width: 88%;
+	}
+}
+@media(max-width: 992px) {
+	.v9_main13 .v9_main2 .point23 {
+		font-size: 33px;
+	}
+	.v7_main3 .my-img {
+	    height: 768px;
+	}
+	.v7_main3 .point15 {
+	    font-size: 22px;
+	}
+	.v7_main3 .ong_block {
+	    margin-top: 18px;
+	    height: 125px;
+	}
+	.v7_main3 .point20 {
+	    font-size: 12px;
+	}
+	.v7_main3 .point14 {
+		margin-bottom: 45px;
+		font-size: 23px;
+	}
+	.v7_main3 .point13 {
+    	font-size: 37px;
+	}
+	.v7_main2 .point10 {
+    	font-size: 36px;
+	}
+	.v7_main2 img {
+		width: 100%;
+	}
+	.v7_main2 .point11 {
+    	font-size: 24px;
+    	margin-top: 30px;
+	}
+	.v7_main2::before {
+	    border-width: 60px 0 0 76px;
+	    margin-top: -37px;
+	}
+	.v7_main1 .v10_main5 .v9_main2 .text7 {
+	    font-size: 31px;
+	}
+	.v7_main .point1 {
+   		font-size: 36px;
+    	margin-top: 25px;
+	}
+	.v7_main .point2 {
+   		font-size: 36px;
+	}
+	.v7_main .point5 {
+		margin-top: 27px;
+   		font-size: 16px;
+	}
+}
+@media(max-width: 767px) {
+	.v9_main13 .v9_main2 .point23 {
+		font-size: 28px;
+	}
+	.v7_main4 .point22 {
+	    margin-bottom: 30px;
+	    margin-top: 33px;
+	    font-size: 46px;
+	}
+	.v7_main3 .no {
+		display: none;
+	}
+	.v7_main3 .point15 {
+	    font-size: 17px;
+	    background-color: #fff;
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	    margin-top: 0;
+	}
+	.v7_main3 .my-img {
+	    height: 865px;
+	}
+	.v7_main3 .ong_block {
+	    width: 50%;
+	    margin: 0 auto;
+	    margin-top: 30px;
+	    border: 1px solid #FFA054;
+	    padding-top: 9px;
+	}
+	.v7_main3 input[type=checkbox].css-checkbox + label.css-label {
+		margin-left: 50px;
+	}
+	.v7_main3 .cent_block {
+		text-align: center;
+	}
+	.v7_main3 .point14 {
+	    margin-bottom: 102px;
+	    font-size: 21px;
+	}
+	.v7_main3 .my-img {
+		margin-top:-129px;
+	}
+	.v7_main3 img {
+	    margin-top: -70px;
+	}
+	.v7_main2 .cl3 {
+		text-align: center;
+	}
+	.v7_main2 img {
+	    width: 35%;
+	    margin-bottom: 35px;
+	}
+	.v7_main2 .point12 {
+	     line-height: 0; 
+	     font-size: 18px;
+	}
+	.v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    width: 80%;
+	    margin-left: 73px;
+	    border: 1px solid rgba(158, 158, 158, 0.67);
+	}
+	.v7_main2 .point10 {
+    	font-size: 32px;
+    	margin-top: 40px;
+	}
+	.v7_main2 .point11 {
+    	font-size: 22px;
+    	margin-top: 20px;
+	}
+	.v7_main1 .v10_main5 .v9_main2 .text7 {
+	    font-size: 24px;
+	}
+	.v7_main .point1 {
+   		font-size: 34px;
+	}
+	.v7_main .point4 {
+   		margin-bottom: 0;
+	}
+	.v7_main .point2 {
+   		font-size: 34px;
+    	margin-top: 15px;
+	}
+	.v7_main .point7 {
+		text-align: center;
+	    font-size: 21px;
+   		margin-top: 19px;
+	}
+	.v7_main .point5 {
+		margin-top: 46px;
+   		font-size: 19px;
+	}
+	.v7_main .v11_main1 .disturbid {
+	    padding-top: 0px ! important;
+	}
+}
+@media(max-width: 600px) {
+	.v9_main13 .v9_main2 .point23 {
+		font-size: 18px;
+	}
+	.v7_main4 .point22 {
+	    font-size: 40px;
+	}
+	.v7_main3 img {
+    	width: 69%;
+	}
+	.v7_main3 .point15 {
+    	font-size: 15px;
+	}
+	.v7_main3 .ong_block {
+    	width: 96%;
+	}
+	.v7_main3 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 0;
+	}
+	.v7_main2 {
+    	padding-bottom: 0;
+	}
+	.v7_main3 .my-img {
+	 	background-color: #fff;
+	 	margin-top: 0;
+	    height: 865px;
+	}
+	.v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 40px;
+	}
+	.v7_main2 .point11 {
+    	font-size: 17px;
+	}
+	.v7_main2 .point10 {
+	    font-size: 26px;
+	    margin-top: 33px;
+	}
+	.v7_main1 {
+	    padding-bottom: 10px;
+	}
+	.v7_main2::before {
+	    border-width: 43px 0 0 49px;
+	    margin-top: -25px;
+	    left: calc(50% - 25px);
+	}
+	.v7_main1 .v10_main5 .v9_main2 .text7 {
+	    font-size: 22px;
+	}
+	.v7_main .point1 {
+   		font-size: 25px;
+    	margin-top: 5px;
+	}
+	.v7_main .v10_main4 input[type=checkbox].css-checkbox + label.css-label {
+		height: 70px;
+	}
+	.v7_main .point5 {
+	    margin-top: 40px;
+	    font-size: 16px;
+	}
+	.v7_main .point2 {
+   		font-size: 24px;
+    	margin-top: 10px;
+	}
+	.v7_main .point3 {
+	    font-size: 16px;
+	}
+	.v7_main .point4 {
+	    font-size: 16px;
+	}
+}
+@media(max-width: 400px) {
+	.v9_main2 button {
+    	font-size: 14px;
+	}
+	.v9_main13 .v9_main2 .point23 {
+		font-size: 14px;
+	}
+	.v8_main5 .cl1 {
+	    height: 420px;
+	    margin-bottom: 0;
+	}
+	.v8_main5 .cl2 {
+	    height: 420px;
+	    margin-bottom: 0;
+	}
+	.v8_main5 .main {
+	    margin-top: 14px;
+	    font-size: 20px;
+	    font-family: Ubuntu-B;
+	    color: #868686;
+	    margin-bottom: 0;
+	}
+	.v8_main5 .couple1 {
+		height: 405px;
+	}
+	.v8_main5 .couple2 {
+		height: 405px;
+	}
+	.v8_main5 .bord {
+		height: 375px;
+	}
+	.v7_main4 .point22 {
+	    font-size: 30px;
+	}
+	.v7_main3 .my-img {
+	    height: 700px;
+	}
+	.v7_main3 .point19 {
+	    font-size: 15px;
+	}
+	.v7_main3 .point17 {
+	    font-size: 15px;
+	}
+	.v7_main3 .point18 {
+	    font-size: 15px;
+	}
+	.v7_main3 .point14 {
+		margin-top: 24px;
+	    margin-bottom: 93px;
+	    font-size: 15px;
+	}
+	.v7_main3 .point13 {
+		margin-top: 10px;
+	    font-size: 29px;
+	}
+	.v7_main2 input[type=checkbox].css-checkbox + label.css-label {
+	    margin-left: 0;
+	    width: 100%;
+	}
+	.v7_main1 .v10_main5 .v9_main2 .text7 {
+	    font-size: 18px;
+	}
+	.v7_main .point3 {
+	    font-size: 13px;
+	}
+	.v7_main .point4 {
+	    font-size: 13px;
+	}
+	.v7_main .point7 {
+	    font-size: 16px;
+	}
+	.v7_main .point5 {
+	    margin-top: 16px;
+	    font-size: 12px;
+	}
+	.v7_main {
+		height: 900px;: 
+	}
+}

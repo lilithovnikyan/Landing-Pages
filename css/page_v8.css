@@ -1,0 +1,716 @@
+
+.v8-L h1, .v8-L h2, .v8-L h3, .v8-L p {
+	margin: 0;
+	padding: 0;
+}
+
+
+.v8_main {
+	background-image: url('../img/site/page_8/body1.jpg'); 
+	background-color: #3E3F42;
+	text-align: center;
+}
+.v8_main h1 {
+	font-size: 55.64px;
+	font-family: Ubuntu-M;
+	color: #fff;
+	margin-top: 53px;
+	text-align: center;
+}
+.v8_main h2 {
+	font-size: 45.25px;
+	color: #fff;
+	margin-top: 30px;
+	text-align: center;
+}
+.v8_main .first-text {
+	font-size: 35.17px;
+	color: #fff;
+	font-family: Ubuntu-M;	
+}
+.v8_main .second-text {
+	font-size: 35.17px;
+	color: #ffa054;
+	padding-right: 12px;
+	font-family: Ubuntu-M;
+}
+.v8_main .one_row_col1 {
+	line-height: 40px;
+	text-align: right;
+	margin-top: 62px;
+}
+.v8_main .one_row_col2 {
+	text-align: left;
+	margin-top: 31px;
+	padding-left: 50px;
+}
+.v8_main .reverse-btn {
+	margin-top: 54px;
+	font-weight: bold;
+	font-size: 29.01px;
+	color: #fff;
+	width: 553px;
+	height: 129px;
+	border:0;
+	background-color: #36C6A4;
+}
+.v8_main .small-text {
+	font-family: Ubuntu-BI;
+	font-size: 13px;
+	color: #fff;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+.v8_main .star-img {
+	width: 110px;
+}
+
+
+.v8_main2 {
+	background-color: #fff;
+
+}
+
+.v8_main2 .left-content {
+	margin-top: 71px;
+}
+
+.v8_main2 .left-content  .one {
+	font-size: 31px;
+	font-family: Ubuntu-L;
+}
+.v8_main2 .left-content  .two{
+	font-size: 31px;
+	margin-top: 75px;
+	font-family: Ubuntu-L;
+}
+.v8_main2 .left-content  .three{
+	font-size: 31px;
+	margin-top: 75px;
+	font-family: Ubuntu-L;
+}
+.v8_main2 .left-content  .four{
+	font-size: 35px;
+	margin-top: 67px;
+	color: #ffa054;
+	font-family: Ubuntu-M;
+	text-transform: uppercase;
+}
+.v8_main2 .left-content  .five{
+	font-size: 18px;
+	margin-top: 33px;
+	line-height: 40px;
+	color: #000;
+	font-family: Ubuntu-R;
+}
+.v8_main2 .left-content  .six{
+	font-size: 30px;
+	margin-top: 72px;
+	margin-bottom: 34px;
+	color: #044e3d;
+	font-family: Ubuntu-M;
+}
+.v8_main2 .left-content .seven {
+	margin-bottom: 72px;
+}
+.v8_main2 .left-content  .alone{
+	font-size: 18px;
+	color: #000;
+	line-height: 30px;
+	font-family: Ubuntu-R;
+	padding-left: 32px;
+}
+.v8_main2 .left-content  .long {
+	font-size: 18px;
+	padding-left: 18px;
+	color: #000;
+	line-height: 30px;
+	font-family: Ubuntu-R;
+}
+
+.v8_main2 .right-content {
+	padding-right: 65px;
+	margin-top: 71px;
+}
+.v8_main2 .right-content img {
+	padding-left: 68px;
+}
+.v8_main2 .right-content .one {
+	margin-top: 70px;
+	font-size: 30px;
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+.v8_main2 .right-content .two {
+	margin-top: 36px;
+	
+}
+.v8_main2 .right-content .two  span{
+	padding-left: 18px;
+	font-size: 18px;
+	color: #000;
+	font-family: Ubuntu-R;
+}
+.v8_main2 .right-content .three {
+	margin-top: 74px;
+	font-size: 30px;
+	color: #ffa054;
+	font-family: Ubuntu-M;
+}
+.v8_main2 .right-content .four {
+	margin-top: 36px;
+	font-size: 18px;
+	color: #000;
+	line-height: 38px;
+	font-family: Ubuntu-R;
+}
+.v8_main2 .right-content .five {
+	margin-top: 82px;
+	font-size: 18px;
+	color: #000;
+	line-height: 36px;
+	font-family: Ubuntu-L;
+}
+.v8_main2 .right-content .six {
+	margin-top: 80px;
+	font-size: 18px;
+	color: #000;
+	line-height: 35px;
+	font-family: Ubuntu-L;
+}
+.v8_main2 .right-content .seven {
+	margin-top: 84px;
+	font-size: 18px;
+	color: #898989;
+	line-height: 32px;
+	font-family: Ubuntu-LI;
+	margin-bottom: 38px;
+}
+
+.v8_main3 img {
+	width: 100%;
+}
+.v8_main3 .left {
+	padding: 0;
+}
+.v8_main3 .right {
+	padding: 0;
+	background-color: #E9E9E9;
+	border-bottom: 
+}
+.v8_main3 .right .sec {
+	margin: 0;
+}
+.v8_main3 .right .one {
+	padding-left: 59px;
+	padding-top: 75px;
+	font-size: 42.49px;
+	color: #686868;
+	font-family: Ubuntu-R;
+}
+.v8_main3 .right .two {
+	padding-left: 59px;
+	font-size: 42.49px;
+	color: #000;
+	font-family: Ubuntu-R;
+}
+.v8_main3 .right .three {
+	padding-left: 59px;
+	font-size: 13.86px;
+	margin-top: 20px;
+	color: #444444;
+	font-family: Ubuntu-RI;
+}
+.v8_main3 .s-reverse {
+	margin-left: 59px;
+	margin-top: 54px;
+	font-weight: bold;
+	font-size: 29.01px;
+	color: #fff;
+	width: 430px;
+	height: 111px;
+	border:0;
+	background-color: #36C6A4;
+}
+.v8_main3 .right  img{
+	width: 100px;
+	padding-top: 87px;
+    margin-left: -20px;
+}
+.v8_main3 .right .three {
+	padding-bottom: 90px;
+	padding-right: 45px;
+}
+.v8_main4 {
+	text-align: center;
+	padding-bottom: 53px;
+	background-color: #00363E;
+	padding-top: 40px;
+}
+.v8_main4 .name { 
+	font-size: 24px;
+	font-family: Ubuntu-R;
+	text-transform: uppercase;
+	color: #fff;
+	margin-bottom: 59px;
+
+}
+.v8_main5 {
+	background-color: #D5E0E0;
+	padding-top: 80px;
+}
+.v8_main5 .cl1 {
+	height: 448px;
+	margin-bottom: 60px;
+}
+.v8_main5 .cl2 {
+	height: 448px;
+	margin-bottom: 60px;
+}
+.v8_main5  .couple1 {
+	background-color: #fff;
+	height: 448px;
+	padding-top: 1px;
+	margin-left: 17px;
+	width: 566px;
+
+}
+.v8_main5  .couple2 {
+	background-color: #fff;
+	height: 448px;
+	padding-top: 1px;
+	margin-left: 27px;
+	margin-right: 17px;
+	width: 566px;
+	
+}
+.v8_main5 .bord {
+	text-align: center;
+	margin: 12px;
+	border:1px solid silver;
+	height: 424px;
+}
+.v8_main5 .bord .circle {
+	margin: 38px auto;
+	position: relative;
+	width: 168px;
+	height: 168px;
+	border-radius: 50%;
+	background-color: #E5E5E5;
+}
+.v8_main5 .bord .small-circle {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	right: 0;
+	bottom: 0;
+	border-radius: 50%;
+	background-color: #C5C5C5;
+}
+.v8_main5 .text {
+	padding-left: 35px;
+	padding-right: 35px;
+	margin-top: 38px;
+	font-size: 18px;
+	color: #00363e;
+	font-family: Ubuntu-R;
+}
+.v8_main5 .main { 
+	margin-top: 32px;
+	font-size: 26.14px;
+	font-family: Ubuntu-B;
+	color: #868686;
+	margin-bottom: 70px;
+}
+.v8_main5 .main .one { 
+	color: #00363e;
+	font-family: Ubuntu-B;
+	font-size: 26.14px;
+}
+.v8_main5 .mej {
+	text-align: center;
+}
+.v8_main5 .s-reverse {
+	margin-bottom: 70px;
+	font-weight: bold;
+	font-size: 25.86px;
+	color: #fff;
+	width: 430px;
+	height: 111px;
+	border:0;
+	background-color: #36C6A4;
+}
+.ather-color .row_header{
+	background-image: url(../img/site/body1.jpg);
+}
+
+
+
+
+
+
+@media(max-width: 1300px) { 
+	.v8_main5  .couple1 {
+		width: auto;
+	}
+	.v8_main5  .couple2 {
+		width: auto;
+	}
+	.v8_main3 .right .one {
+	    padding-left: 26px;
+	    padding-top: 40px;
+	    font-size: 33.49px;
+	}
+	.v8_main3 .right .two {
+	    padding-left: 26px;
+	    font-size: 33.49px;
+	}
+	.v8_main3 .right img {
+	    width: 89px;
+	    margin-left: 0;
+	    padding-top: 50px;
+	}
+	.v8_main3 .s-reverse {
+		margin-top: 40px;
+		width: 371px;
+    	height: 86px;
+	}
+}
+@media(max-width: 1177px) {
+	.v8_main5 .text {
+		font-size: 15px;
+	}
+	.v8_main .first-text{
+		font-size: 29px;
+	}
+	.v8_main .second-text{
+		font-size: 29px;
+	}
+	.v8_main2  .left-content .one {
+    	font-size: 28px;
+	}
+	.v8_main2 .left-content .two {
+    	font-size: 28px;
+    	margin-top: 34px;
+	}
+	.v8_main2  .left-content .three {
+	    font-size: 28px;
+	    margin-top: 63px;
+	}
+	.v8_main2 .right-content img {
+	    width: 80%;
+	}
+	.v8_main2 .right-content .five {
+	    margin-top: 30px;
+	}
+	.v8_main2 .right-content .six {
+	    margin-top: 50px;
+	}
+	.v8_main2 .right-content .seven {
+    	margin-top: 44px;
+    }
+    .v8_main3 .right .one {
+    	padding-left: 13px;
+	}
+	.v8_main3 .right .first {
+		text-align: right;
+		margin-top: 15px;
+	}
+}
+@media(max-width: 992px) {
+	.v8_main5 .couple2 {
+		margin-top: 20px;
+		margin-right: 0;
+		margin-left: 17px;
+	}
+	.v8_main5 .cl2 {
+		margin-bottom: 20px;
+	}
+	.v8_main .first-text{
+		font-size: 25px;
+	}
+	.v8_main .second-text{
+		font-size: 25px;
+	}
+	.v8_main2  .left-content .one {
+    	font-size: 24px;
+	}
+	.v8_main2 .left-content .two {
+    	font-size: 24px;
+    	margin-top: 34px;
+	}
+	.v8_main2  .left-content .three {
+	    font-size: 24px;
+	    margin-top: 63px;
+	}
+	.v8_main2 .left-content .four {
+    	font-size: 26px;
+	}
+	.v8_main2 .left-content .five {
+    	font-size: 16px;
+	}
+	.v8_main2 .left-content .six {
+    	font-size: 22px;
+    	margin-top: 36px;
+	}
+	.v8_main2 .left-content .long {
+    	font-size: 15px;
+	}
+	.v8_main2 .right-content img {
+	    width: 100%;
+	}
+	.v8_main2 .right-content .one {
+    	margin-top: 35px;
+    	font-size: 22px;
+	}
+	.v8_main2 .right-content .three {
+    	margin-top: 42px;
+    	font-size: 22px;
+	}
+	.v8_main2 .right-content .four {
+	    font-size: 15px;
+	}
+	.v8_main2 .right-content .five {
+		font-size: 15px;
+	    margin-top: 30px;
+	}
+	.v8_main2 .right-content .six {
+	    margin-top: 50px;
+	    font-size: 15px;
+	}
+	.v8_main2 .right-content .seven {
+    	margin-top: 44px;
+    }
+
+    .v8_main3 .right {
+    	text-align: center;
+    }
+    .v8_main3 .right .one {
+	    padding-left: 10px;
+	    padding-top: 40px;
+	    font-size: 26px;
+	}
+	.v8_main3 .right .two {
+	    padding-left: 10px;
+	    font-size: 26px;
+	}
+	.v8_main3 .right img {
+	    width: 89px;
+	    margin-left: -15px;
+	    padding-top: 50px;
+	}
+	.v8_main3 .s-reverse {
+		margin-top: 40px;
+		width: 79%;
+	    height: 70px;
+	    margin-left: 43px;
+	}
+}
+@media(max-width: 882px) {
+	.v8_main h1 {
+		font-size: 35px
+	}
+	.v8_main h2 {
+		font-size: 35px
+	}
+	.v8_main .first-text{
+		font-size: 25px
+	}
+	.v8_main .second-text{
+		font-size: 25px
+	}
+	.v8_main .star-img {
+		width: auto;
+		margin-top: 20px;
+	}
+	.v8_main .reverse-btn {
+		width: 500px;
+   		height: 110px;
+   		font-size: 25px;
+	}
+}
+@media(max-width: 767px) {
+
+ 	.v8_main2 .right-content img {
+	    width: 55%;
+	    padding-left: 0;
+	}
+	.v8_main2 .right-content {
+		text-align: center;
+	}
+	.v8_main2 .left-content .text20 .row{
+		text-align: left ! important;
+	}
+	.v8_main3  .right .first {
+		text-align: right;
+		margin-top: 14px;
+	}
+	.v8_main3 .right .second {
+		text-align: left;
+	}
+}
+
+@media(max-width: 540px) {
+
+	.v8_main5 .s-reverse {
+	   font-size: 25px;
+	    width: 362px;
+	    height: 79px;
+	}
+	.v8_main5 .bord  .circle {
+	    width: 135px;
+	    height: 135px;
+	}
+	.v8_main .reverse-btn {
+		width: 100%;
+	}	
+}
+@media(max-width: 440px) {
+	.v8_main5 .s-reverse {
+	   font-size: 21px;
+	    width: 258px;
+	    height: 57px;
+	}
+	.v8_main5 .couple2 {
+		margin-right: 0;
+	}
+	.v8_main5 .bord .circle {
+	    width: 110px;
+	    height: 110px;
+	}
+	.v8_main5 .text {
+	    font-size: 13px;
+	}
+	.v8_main .one_row_col2{
+		padding-left: 0;
+	}
+	.v8_main h1 {
+		font-size: 25px
+	}
+	.v8_main h2 {
+		font-size: 20px
+	}
+	.v8_main .one_row_col1 {
+		line-height: 25px;
+		margin-top: 42px;
+	}
+	.v8_main .first-text{
+		font-size: 16px
+	}
+	.v8_main .star-img {
+		margin-top: 0;
+	}
+	.v8_main .second-text{
+		font-size: 16px
+	}
+	.v8_main .reverse-btn {
+		font-size: 20px;
+	}
+	.v8_main .reverse-btn {
+		width: 80%;
+   		height: 60px;
+   		margin-top: 30px;
+	}
+
+
+
+
+	.v8_main .first-text {
+		font-size: 25px;
+	}
+	.v8_main .second-text{
+		font-size: 25px;
+	}
+	.v8_main2  .left-content .one {
+    	font-size: 18px;
+	}
+	.v8_main2 .left-content .two {
+    	font-size: 18px;
+    	margin-top: 34px;
+	}
+	.v8_main2  .left-content .three {
+	    font-size: 18px;
+	    margin-top: 40px;
+	}
+	.v8_main2 .left-content .four {
+    	font-size: 21px;
+    	margin-top: 50px;s
+	}
+	.v8_main2 .left-content .five {
+    	font-size: 14px;
+    	margin-top: 24px;
+   		line-height: 28px;
+	}
+	.v8_main2 .left-content .six {
+    	font-size: 17px;
+    	margin-top: 30px;
+	}
+	.v8_main2 .left-content .long {
+    	font-size: 13px;
+	}
+	.v8_main2 .right-content img {
+	    width: 100%;
+	}
+	.v8_main2 .right-content .one {
+    	margin-top: 30px;
+    	font-size: 17px;
+	}
+	.v8_main2 .right-content .two span {
+    	padding-left: 11px;
+    	font-size: 13px;
+	}
+	.v8_main2 .right-content .three {
+    	margin-top: 35px;
+    	font-size: 17px;
+	}
+	.v8_main2 .right-content .four {
+	    margin-top: 25px;
+	    font-size: 13px;
+	    line-height: 25px;
+	}
+	.v8_main2 .right-content .five {
+		font-size: 13px;
+	    line-height: 25px;
+	}
+	.v8_main2 .right-content .six {
+	    font-size: 13px;
+	    line-height: 25px;
+	    margin-top: 40px;
+	}
+	.v8_main2 .right-content .seven {
+    	margin-top: 30px;
+    	font-size: 14px;
+    }
+
+    .v8_main3 .s-reverse {
+	    margin-top: 20px;
+	    width: 80%;
+	    height: 60px;
+	    font-size: 20px;
+	}
+	.v8_main3 .right .one {
+		font-size: 21px;
+	}
+	.v8_main3 .right .two {
+		font-size: 21px;
+	}
+	.v8_main3 .right img {
+	    width: 62px;
+	    padding-top: 58px;
+	}
+}
+@media(max-width: 350px) {
+	 .v8_main3 .s-reverse {
+	   margin-left: 0;
+	}
+	.v8_main3 .right .one {
+		font-size: 19px;
+	}
+	.v8_main3 .right .two {
+		font-size: 19px;
+	}
+	.v8_main3 .right img {
+	    width: 50px;
+
+	}
+}

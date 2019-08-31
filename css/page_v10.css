@@ -1,0 +1,887 @@
+.v10-L h1, .v10-L h2, .v10-L h3, .v10-L p {
+	margin: 0;
+	padding: 0;
+}
+label {
+    font-weight: normal;
+}
+
+.row_header1 {
+	background-image: url('../img/site/page_10/back1_10.png'); 
+	background-color: #221847;
+	
+}
+.v10_main {
+}
+.v10_main .text1  {
+	color: #fff;
+	font-family: Ubuntu-M;
+	font-size: 55.64px;
+	margin-top: 45px;
+	text-align: center;
+}
+.v10_main .text2  {
+	color: #fff;
+	font-family: Ubuntu-L;
+	font-size: 38.04px;
+	margin-top: 20px;
+	text-align: center;
+}
+.v10_main .block1  {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.v10_main .text3  {
+	color: #fff;
+	font-family: Ubuntu-R;
+	font-size: 30px;
+}
+.v10_main .text4  {
+	color: #fe7f19;
+	font-family: Ubuntu-M;
+	font-size: 30px;
+}
+.v10_main .block2  img {
+	margin-top: 50px;
+	width: 100%;
+}
+.v10_main2 {
+	position: relative;
+	background-color: #00616F;
+}
+.v10_main2 .v9_main2 {
+	background-color: #00616F;
+}
+
+.v10_main3 {
+	background-color: #fff;
+}
+.v10_main2::before {
+    content: '';
+    width: 896px;
+    height: 46px;
+    background: #00616F;
+    position: absolute;
+    left: calc(50% - 453px);
+    top: 225px;
+    border-radius: 8px;
+}
+.v10_main3 .text4 {
+	font-size: 48px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 100px;
+} 
+.v10_main3 table {
+	margin-bottom: 0;
+}
+.v10_main3 table  tr th {
+	color: #fe7f19;
+	font-size: 26.7px;
+	font-family: Ubuntu-M;
+	padding-bottom: 40px;
+}
+.v10_main3 table  tbody td {
+	padding-top: 43px;
+	height: 149px;
+}
+.v10_main3 table  thead th:first-child {
+	border-bottom: 1px solid #fff;
+
+	
+}
+.v10_main3 table  tbody td:first-child {
+	border-bottom: 1px solid #fff;
+	padding-top: 58px;
+
+}
+.v10_main3 .first-th th {
+	padding-left: 73px;
+}
+
+.v10_main3 table .text {
+	color:#393939;
+	font-family: Ubuntu-L;
+	text-align: right;
+}
+.v10_main3 table .table-text {
+	font-size: 20px;
+
+}
+.v10_main3 table .table-text1 {
+	font-size: 15px;
+}
+.v10_main3 table .table-text2 {
+	padding-left: 73px; 
+	font-size: 46.84px;
+	font-family: Ubuntu-M;
+	color:#393939;
+}
+.v10_main3 .finaly button {
+	width: 261px;
+	height: 60px;
+	background-color: #36C6A4;
+	color: #fff;
+	font-size: 20px;
+	font-family: Ubuntu-M;
+	border: 0;
+	margin-bottom: 95px;
+	margin-top: 45px;
+} 
+.v10_main3 .finally {
+	text-align: center;
+}
+.v10_main3 .finally button {
+	width: 49%;
+	height: 60px;
+	background-color: #36C6A4;
+	color: #fff;
+	font-size: 20px;
+	font-family: Ubuntu-M;
+	border: 0;
+	margin-bottom: 5px;
+	margin-top: 10px;
+} 
+.v10_main4 {
+	padding-top: 85px;
+	background-color: #C8DBDB;
+}
+.v10_main4  .text9 {
+	margin-top: 20px;
+	color: #00363e;
+	font-size: 35px;
+	font-family: Ubuntu-L;
+}
+.v10_main4  .text10 {
+	color: #727272;
+	margin-top: 48px;
+	font-size: 21px;
+	font-family: Ubuntu-M;
+}
+.v10_main4  .text11 {
+	color: #000000;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 24px;
+	font-family: Ubuntu-L;
+}
+.v10_main4 label {
+	font-size: 21px;
+}
+.v10_main4 input[type=checkbox].css-checkbox + label.css-label {
+    padding-left: 55px;
+    height: 50px;
+    font-family: Ubuntu-L;
+    display: inline-block;
+    padding-top: 6px;
+    margin-top: 10px;
+    line-height: 32px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    font-size: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.v10_main4 input[type=checkbox].css-checkbox:checked + label.css-label {
+    background-position: 0 -50px;
+}
+.v10_main4 label.css-label {
+    background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_c7bbfae6713f6bfaa9d524ad5dd33367.png);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.v10_main4 input[type=checkbox].css-checkbox {
+    position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+}
+.v10_main4  .second-line {
+	margin-top: 68px;
+}
+.v10_main4  .second-line  .block {
+	position: relative;
+	height: 236px;
+    width: 553px;
+	padding: 11px;
+	background-color: #fff;
+}
+.v10_main4  .second-line  .block .border {
+	border: 1px solid #C8DBDB;
+	padding-left: 10px;
+	height: 214px;
+}
+.v10_main4  .second-line  .block::after {
+    content: '';
+    transform: rotate(225deg);
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0px 28px 28px 3px;
+    border-color: transparent transparent #fff transparent;
+    position: absolute;
+    top: 108px;
+    right: -16px;
+}
+.v10_main4  .second-line  .block .border .text13 {
+	text-align: center;
+	color: black;
+	font-family: Ubuntu-L;
+	font-size: 19.45px;
+	margin-top: 70px;
+	text-transform: uppercase;
+}
+.v10_main4  .second-line  .block .border .text14 {
+	color: #ffa054;
+	font-family: Ubuntu-M;
+	font-size: 19.45px;
+}
+.v10_main4 .text12 {
+	margin-bottom: 25px;
+	color: #09216d;
+	font-size: 27px;
+	font-family: Ubuntu-M;
+}
+.v10_main4 .one {
+	font-size: 16.12px ! important;
+	font-family: Ubuntu-R;
+	line-height: 24px ! important;
+}
+.v10_main4 .two {
+	font-size: 16.12px ! important;
+	font-family: Ubuntu-M;
+	line-height: 24px ! important;
+}
+.v10_main4 .text15 {
+	text-align: center;
+	font-size: 21px;
+	font-family: Ubuntu-L;
+	margin-top: 81px;
+	margin-bottom: 72px;
+}
+.v10_main4 .text16 {
+	font-size: 21px;
+	font-family: Ubuntu-M;
+	color: #092e56;
+}
+
+.v10_main5 {
+	background-color: #FFA054;
+}
+.v10_main5 .v9_main2 {
+	background-color: #FFA054;
+}
+.v10_main5 .v9_main2 .text7 {
+	font-size: 44.89px;
+	color: #fff;
+	margin-top: 60px;
+	font-family: Ubuntu-M;
+}
+.v10_main5 .v9_main2 .text8 {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 60px;
+	color: #fff;
+	margin-top: 33px;
+	font-family: Ubuntu-R;
+}
+.v10_main6 {
+	margin-bottom: 50px;
+}
+.v10_main6 .text10 {
+	text-align: center;
+	font-size: 36.06px;
+	color: #00363e;
+	margin-bottom: 68px ! important;
+	font-family: Ubuntu-L
+}
+.v10_main6 .text_l1_nornal {
+    color: #00363e;
+    font-family: Ubuntu-M;
+    margin-bottom: 70px;
+}
+.v10_main6 .text_orange {
+    color: #ffa054;
+}
+.v10_main6 .lv1_block_block4 .col-sm-7 p{
+	font-size: 18px;
+}
+.v10_main7  .lv1_block_block5{
+	background-color: #00363E;
+	padding-bottom: 10px;
+}
+.v10_main7  .lv1_block_block5 .text15{
+	text-align: center;
+	padding-top: 72px;
+	font-size: 24.13px;
+	font-family: Ubuntu-R;
+}
+
+
+.v10_main8::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-style: solid;
+    border-width: 37px 35px 0 35px;
+    border-color: #00363E transparent transparent transparent;
+    left: calc(50% - 18.5px);
+}
+.v10_main8 {
+	min-height: 922px;
+	background-color: #C8DBDB;
+}
+.v10_main8  .text17 {
+	color: #00363e;
+	font-size: 48px;
+	margin-bottom: 80px;
+	font-family: Ubuntu-M;
+	margin-top: 105px;
+	text-align: center;
+}
+.v10_main8 .v8_main5 {
+	background-color:  #C8DBDB;
+}
+.v10_main8 .v8_main5 .couple1{
+	margin-left: 0;
+}
+.v10_main8 .v8_main5 .cl2{
+	margin-bottom: 87px;
+}
+.v10_main8 .v8_main5 .cl1{
+	margin-bottom: 87px;
+}
+
+.v10_main9  {
+	background-color: #076F7E;
+}
+.v10_main9 .v9_main12 {
+	background-color: #076F7E;
+	 padding-bottom: 60px;
+}
+.v10_main9 .v9_main12 .text33 { 
+	margin-top: 70px;
+	margin-bottom: 40px;
+	color: #fff;
+}
+.v10_main9 .v9_main12 .text34 {
+    margin-bottom: 21px;
+}
+.v10_main10 {
+	text-align: center;
+	background-image: url('../img/site/page_10/back4_10.png');  
+	background-color: #E8E8E8;
+}
+.v10_main10 .text20 {
+	margin-top: 60px;
+	font-size: 48px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+}
+.v10_main10 .text21 {
+	margin-top: 33px;
+	line-height: 44px;
+	font-size: 48px;
+	color: #ffa054;
+	font-family: Ubuntu-B;
+}
+.v10_main10 .text22 {
+	margin-top: 39px;
+	font-size: 34.08px;
+	color: #000;
+	font-family: Ubuntu-L;
+}
+.v10_main10 .text23 {
+	margin-top: 50px;
+	font-size: 63.95px;
+	margin-bottom: 70px;
+	color: #00363e;
+	font-family: Ubuntu-M;
+}
+.v10_main10  .btn_10 {
+	width: 308px;
+	height: 82px;
+	font-family: Ubuntu-M;
+	color: #fff;
+	font-size: 18.43px;
+	border:0;
+	background-color: #36C6A4;
+	margin-bottom: 45px;
+}
+
+@media(max-width: 1199px) { 
+	.v10_main4 .text12 {
+	    font-size: 22px;
+	}
+	.v10_main4 .second-line .block {
+    	width: 100%;
+	}
+	.v10_main4 .text11 {
+	    margin-top: 49px;
+	    font-size: 22px;
+	}
+	.v10_main4 .text10 {
+	    margin-top: 28px;
+	    font-size: 20px;
+	}
+	.v10_main4 .text9 {
+    	margin-top: 0px;
+	    font-size: 28px;
+	}
+	.v10_main4 img {
+		width: 100%;
+	}
+	.v10_main3 table tbody td {
+		height: auto;
+	}
+	.v10_main3 .finaly button {
+		width: 196px;
+	}
+	.v10_main2::before {
+	    top: 210px;
+	}
+	.v10_main2 .v9_main2 .text7{
+	    font-size: 50px;
+	}
+}
+@media(max-width: 992px) {
+	.v10_main10 .text23 {
+	    margin-top: 36px;
+	    font-size: 38px;
+	    margin-bottom: 50px;
+	}
+	.v10_main10 .text22 {
+   		margin-top: 29px;
+	    font-size: 26px;
+	}
+	.v10_main10 .text21 {
+	    margin-top: 23px;
+	    line-height: 37px;
+	    font-size: 31px;
+	}
+	.v10_main10 .text20 {
+	    margin-top: 50px;
+	    font-size: 42px;
+	}
+	.v10_main7 .lv1_block_block5 .text15 {
+	    padding-top: 43px;
+	    font-size: 25px;
+	}
+	.v10_main6 .text_l1_nornal {
+	    font-size: 27px;
+	    margin-bottom: 50px;
+	}
+	.v10_main6 .text10 {
+		font-size: 24px;
+		margin-bottom: 26px ! important;
+	}
+	.v10_main5 .v9_main2 .text7 {
+	    font-size: 36px;
+	    margin-top: 39px;
+	}
+	.v10_main5 .v9_main2 .text8 {
+	    font-size: 25px;
+	    margin-bottom: 43px;
+	}
+	.v10_main4 .one {
+    	font-size: 12px ! important;
+	}
+	.v10_main4 .two {
+    	font-size: 12px ! important;
+	}
+	.v10_main4 .text12 {
+	    font-size: 17px;
+	}
+	.v10_main4 input[type=checkbox].css-checkbox + label.css-label {
+		font-size: 16px;
+		padding-top: 0;
+	}
+	.v10_main4 .text11 {
+	    margin-top: 30px;
+	    font-size: 17px;
+	    margin-bottom: 8px;
+	}
+	.v10_main4 .text10 {
+	    margin-top: 20px;
+	    font-size: 18px;
+	}
+	.v10_main4 .text9 {
+    	margin-top: 0px;
+	    font-size: 22px;
+	}
+	.v10_main3 .first-th th {
+		padding-left:20px;
+		font-size: 24px;
+	}
+	.v10_main3 table .table-text2 {
+    	padding-left: 20px;
+	}
+
+	.v10_main3 .finaly button {
+	    width: 130px;
+	    font-size: 14px;
+	}
+	.v10_main3 .text4 {
+    	font-size: 40px;
+	}
+	.v10_main3 .table {
+    	width: 95%;
+	}
+	.v10_main2::before {
+	    top: 190px;
+	    width: 727px;
+		left: calc(50% - 358px);
+	}
+	.v10_main2 .v9_main2 .text7{
+	    font-size: 42px;
+	} 
+	.v10_main .text3 {
+	    font-size: 22px;
+	}
+	.v10_main .text4 {
+	    font-size: 22px;
+	}
+	.v10_main .block1 {
+	    margin-top: 65px;
+	    margin-bottom: 18px;
+	}
+	.v10_main .text1 {
+	    font-size: 40px;
+	}
+	.v10_main .text2 {
+	    font-size: 30px;
+	}
+}
+
+@media(max-width: 768px) {
+	.v10_main6 .lv1_block_block4 {
+	    height: auto;
+	    padding-top: 10px;
+	}
+	.v10_main6 .text_l1_nornal {
+	    font-size: 22px;
+	    margin-bottom: 31px;
+	}
+	.v10_main6 .text10 {
+		font-size: 23px ! important;
+		margin-bottom: 24px ! important;
+	} 
+	.v10_main4 .one {
+	    font-size: 20px ! important;
+	}
+	.v10_main4 .two {
+	    font-size: 20px ! important;
+	}
+	.v10_main4 .text12 {
+		text-align: center;
+		margin-top: 20px;
+	    font-size: 23px;
+	}
+	.v10_main4 .second-line .block::after {
+		top: 85px;
+	}
+	.v10_main4 .second-line .block .border {
+	    height: 178px;
+	}
+	.v10_main4 .second-line .block .border .text13 {
+	    font-size: 15px;
+	    margin-top: 60px;
+	}
+	.v10_main4 .second-line .block .border .text14 {
+	    font-size: 15px;
+	}
+	.v10_main4 .second-line .block {
+		margin-left: 90px;
+	    width: 70%;
+	    height: 200px;
+	}
+	.v10_main4 .text9 {
+	    margin-top: 19px;
+	    font-size: 28px;
+	}
+	.v10_main4 {
+		padding-top: 20px;
+	}
+	.v10_main4 img {
+	    width: 40%;
+	}
+	.v10_main4 .cl_first {
+		text-align: center;
+	}
+	.v10_main4 .second .text {
+		text-align: center;
+	}
+	.v10_main3 .first-th th {
+		padding-left:10px;
+		font-size: 20px;
+	}
+	.v10_main3 table .table-text2 {
+    	padding-left: 01px;
+	}
+	.v10_main3 table .table-text1 {
+	    font-size: 11px;
+	}
+	.v10_main3 table tbody td:first-child {
+	    padding-top: 0;
+	}
+	.v10_main3 .finaly button {
+	   margin-bottom: 35px;
+    	font-size: 14px;
+	}
+	.v10_main3 table .table-text2 {
+    	font-size: 40px;
+	}
+	.v10_main3 table tbody td {
+	    padding-top:0;
+	}
+	.v10_main3 table tr th {
+	    font-size: 21px;
+	    padding-bottom: 26px;
+	}
+	.v10_main3 .text4 {
+	    font-size: 35px;
+	    margin-top: 25px;
+	    margin-bottom: 40px;
+	}
+	.v10_main2::before {
+		display: none;
+	}
+	.v10_main2 .v9_main2 .text7{
+	    font-size: 38px;
+	}
+	.v10_main .block2{
+		text-align: center;
+	}
+	.v10_main .block2  img {
+		width: 50%;
+		margin-bottom: 30px;
+	}
+}
+@media(min-width: 716px) {
+	.v10_main3 .finally button {
+		display: none;
+	}
+}
+@media(max-width: 715px) {
+	.v10_main3 .finaly button  {
+	   display: none;
+	}
+}
+@media(max-width: 600px) {
+	.v10_main10 .text23 {
+	    margin-top: 30px;
+	    font-size: 30px;
+	    margin-bottom: 40px;
+	}
+	.v10_main10 .text22 {
+   		margin-top: 29px;
+	    font-size: 18px;
+	}
+	.v10_main10 .text21 {
+	    margin-top: 23px;
+	    line-height: 37px;
+	    font-size: 20px;
+	}
+	.v10_main10 .text20 {
+	    margin-top: 50px;
+	    font-size: 30px;
+	}
+	.v10_main7 .lv1_block_block5 .text15 {
+	    font-size: 18px;
+	    padding-top: 55px;
+	}
+	.v10_main5 .v9_main2 .text7 {
+	    font-size: 28px;
+	    margin-top: 30px;
+	}
+	.v10_main5 .v9_main2 .text8 {
+	    font-size: 19px;
+	    margin-bottom: 30px;
+	}
+	.v10_main4 .one {
+	    font-size: 16px ! important;
+	}
+	.v10_main4 .two {
+	    font-size: 16px ! important;
+	}
+	.v10_main4 .text12 {
+		font-size: 21px;
+	}
+	.v10_main4 .second-line .block {
+    	margin-left: 70px;
+	}
+	.v10_main4 .second-line .block .border .text13  {
+	    font-size: 13px;
+	}
+	.v10_main4 .second-line .block .border .text14  {
+	    font-size: 13px;
+	}
+	.v10_main3 table .table-text2 {
+	    font-size: 30px;
+	}
+	.v10_main3 .text4 {
+    	font-size: 25px;
+	}
+	.v10_main3 table .table-text {
+	    font-size: 14px;
+	}
+	.v10_main3 table tr th {
+	    font-size: 16px;
+	}
+	.v10_main3 table .table-text1 {
+	    font-size: 9px;
+	}
+	.v10_main3 .table {
+	     width: auto; 
+	} 
+	.v10_main2 .v9_main2 .text7{
+	    font-size: 30px;
+	}
+	.v10_main .block2 img {
+	    width: 80%;
+	
+	}
+	.v10_main .text3 {
+	    font-size: 20px;
+	}
+	.v10_main .text4 {
+	    font-size: 20px;
+	}
+	.v10_main .block1 {
+	    margin-top: 36px;
+	    margin-bottom: 18px;
+	}
+	.v10_main .text1 {
+	    font-size: 36px;
+	}
+	.v10_main .text2 {
+	    font-size: 25px;
+	}
+}
+@media(max-width: 520px) {
+	.v10_main3 {
+		overflow-x: scroll;
+	}
+	.v10_main3  .container {
+		
+		width: 500px;
+	}
+}
+@media(max-width: 400px) {
+	.v10_main10 .btn_10 {
+	    width: 100%;
+	    height: 66px;
+	    margin-bottom: 19px;
+	}
+	.v10_main10 .text23 {
+	    margin-top: 25px;
+	    font-size: 21px;
+	    margin-bottom: 23px;
+	}
+	.v10_main10 .text22 {
+   		margin-top: 29px;
+	    font-size: 18px;
+	}
+	.v10_main10 .text21 {
+	    margin-top: 23px;
+	    line-height: 28px;
+	    font-size: 19px;
+	}
+	.v10_main10 .text20 {
+	    margin-top: 35px;
+	    font-size: 24px;
+	}
+	.v10_main8::before {
+	    left: calc(50% - 45.5px);
+	}
+	.v10_main7 .lv1_block_block5 .text15 {
+	    font-size: 16px;
+	    padding-top: 45px;
+	}
+	.v10_main6 .text10 {
+	    font-size: 18px ! important;
+	}
+	.v10_main4 .second-line .block::after {
+	    top: 73px;
+	}
+	.v10_main4 .second-line .block .border .text13 {
+	    margin-top: 30px;
+	} 
+	.v10_main4 .second-line .block {
+	    height: 165px;
+	}
+	.v10_main4 .second-line .block .border {
+	    height: 143px;
+	}
+	.v10_main5 .v9_main2 .text7 {
+	    font-size: 20px;
+	    margin-top: 30px;
+	}
+	.v10_main5 .v9_main2 .text8 {
+	    font-size: 16px;
+	    margin-bottom: 20px;
+	}
+	.v10_main4 .second-line .block {
+	    margin-left:0;
+	    width: 95%;
+	}
+	.v10_main4 .one {
+	    font-size: 14px ! important;
+	}
+	.v10_main4 .two {
+	    font-size: 14px ! important;
+	}
+	.v10_main4 .text15 {
+	    font-size: 18px;	
+	    margin-top: 45px;
+	    margin-bottom: 36px;
+	}
+	.v10_main4 .text10 {
+	    font-size: 15px;
+	}
+	.v10_main4 .text9 {
+	    font-size: 20px;
+	}
+	.v10_main4 .text11 {
+	    font-size: 14px;
+	}
+	.v10_main4 input[type=checkbox].css-checkbox + label.css-label {
+	    font-size: 14px;
+	   line-height: 20px;
+	}
+	.v10_main3 .finally button {
+	    width: 51%;
+	    height: 47px;
+	    font-size: 15px;
+	}
+	.v10_main3 table .table-text2 {
+    	padding-left: 14px;
+    }
+
+	.v10_main .block2 img {
+	    width: 80%;
+	    margin-top: 0;
+	}
+	.v10_main .text3 {
+	    font-size: 17px;
+	}
+	.v10_main .text4 {
+	    font-size: 17px;
+	}
+	.v10_main .block1 {
+	    margin-top: 36px;
+	    margin-bottom: 18px;
+	}
+	.v10_main .text1 {
+		margin-top: 0;
+	    font-size: 32px;
+	}
+	.v10_main .text2 {
+	    font-size: 20px;
+	}
+}
